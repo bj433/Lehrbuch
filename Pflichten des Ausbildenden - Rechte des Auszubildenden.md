@@ -36,3 +36,7 @@ Bei Krankheit wird die Vergütung bis zu 6 Wochen weitergezahlt, danach wird Kra
 
 Ausbildende müssen Auszubildenden ausschließlich Aufgaben übertragen, die dem Ausbildungszweck dienen und ihren körperlichen Kräften angemessen sind. 
 Ausbildende haben dafür zu sorgen, dass Auszubildende charakterlich gefördert, sowie sittlich und körperlich nicht gefährdet werden.
+
+- Zeugnispflicht
+
+Der Ausbildende hat dem Auszubildenden bei Beendigung des Ausbildungsverhältnisses ein Zeugnis auszustellen.
