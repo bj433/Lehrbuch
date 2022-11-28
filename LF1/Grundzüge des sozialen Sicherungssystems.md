@@ -1,19 +1,21 @@
-- Soziale Marktwirtschaft
+# Grundzüge des sozialen Sicherungssystems
+
+## Soziale Marktwirtschaft
   - Förderung und Gewährleistung von Wirtschaftsfreiheit, funktionierendem Wettbewerb, hohe soziale Sicherheit im Land
   - Chancengleichheit durch Ausgleich
   - Angemessene Steuerbelastung
   - Solidarische Hilfen
 
-- Europäische Sozialcharta
+## Europäische Sozialcharta
   - Verbindliches Völkerabkommen, das der Bevölkerung Europas soziale Rechte garantiert
 
-- Grundprinzipien der Sozialversicherung und der sozialen Marktwirtschaft sowie Zielkonflikte 
+## Grundprinzipien der Sozialversicherung und der sozialen Marktwirtschaft sowie Zielkonflikte 
   - Solidarität: Verteilung der Lasten der gesetzlichen Sozialversicherung auf Viele
   - Subsidiarität: Eigenständige Leistungen dürfen nicht von Übergeordneten beansprucht werden
   - Nachhaltigkeit: Verpflichtung zur Schonung endlicher Ressourcen
   - Zielkonflikte: Wie viel soll sozial umverteilt werden, an wen, wofür?
 
-- Lohn- und Einkommenssteuer und Steuerjahresausgleich bei schwankenden Einkommen und später beantragten Sonderausgaben
+## Lohn- und Einkommenssteuer und Steuerjahresausgleich bei schwankenden Einkommen und später beantragten Sonderausgaben
   - Zahlung von Lohn- und Einkommenssteuer an Finanzamt in Abhängigkeit des Bruttoeinkommens
   - Lohnsteuer wird vom Arbeitgeber überwiesen - Arbeitnehmer erhält Nettoeinkommen
   - Berücksichtigung von Freibeträgen
@@ -22,7 +24,7 @@
   - Zusätzliche Steuerfreibeträge - Sonderausgaben/Steuererklärungen
   - Lohnsteuerjahresausgleich zur Erstattung von zu viel gezahlten Steuern
 
-- Sozialpartner, Sozialversicherung nach Sozialgesetzbuch
+## Sozialpartner, Sozialversicherung nach Sozialgesetzbuch
   - Gesetzliche Krankenkassen: gesetzliche Krankenversicherung
   - Krankenkassen: gesetzliche Pflegeversicherung
   - Rentenversicherungsträger: gesetzliche Rentenversicherung
@@ -33,7 +35,7 @@
   - Arbeitgeber überweisen Beiträge
   - Einkommensbezieher über Beitragsbemessungsgrenze und Selbstständige können selber wählen
  
-- Private Versicherungen (Versicherungsgesellschaften)
+## Private Versicherungen (Versicherungsgesellschaften)
   - Krankenversicherung
   - Haftpflichtversicherung (bei Personen-, Sach- oder Vermögensschäden)
   - Unfallversicherung (Folgen bleibender Unfallschäden, Invalidität, Tod)
@@ -41,6 +43,6 @@
   - Risikolebensversicherung (Todesfallabsicherung)
   - Beiträge werden privat, freiwillig und je nach Angebot der Gesellschaft sowie gewünschten Leistungen gezahlt
 
-- Sozialgerichtsbarkeit
+## Sozialgerichtsbarkeit
   - Zuständigkeit für Streitigkeiten der Sozialversicherung (Versicherte - Krankenkasse)
   - Sozialgericht, Landessozialgericht und Bundessozialgericht für klagende Versicherte kostenfrei
