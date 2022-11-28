@@ -1,4 +1,6 @@
-Bestandteile des Ausbildungsvertrages nach §11 BBIG
+# Ausbildungsvertrag und Jugendarbeitsschutzgesetz
+
+## Bestandteile des Ausbildungsvertrages nach §11 BBIG
 
 1. Art, sachliche und zeitliche Gliederung sowie Ziel der Berufsausbildung
 2. Beginn und Dauer der Berufsausbildung
@@ -14,7 +16,7 @@ Bestandteile des Ausbildungsvertrages nach §11 BBIG
 Die zuständige IHK informiert im Anhang zum Ausbildungsvertrag und im Internet über alle Vorgaben zum Ausbildungsvertrag.
 
 
-Jugendarbeitsschutzgesetz (JArbSchG)
+## Jugendarbeitsschutzgesetz (JArbSchG)
 
 - Eine Erstuntersuchung bei einem Jugendgesundheitsdienst oder Hausarzt ist für jeden Jugendlichen vor Beginn der Berufsausbildung und bei Jugendlichen
 nach einem Jahr entsprechend §32 f. notwendig.
@@ -34,7 +36,7 @@ in Aufenthaltsräumen sind vorzusehen.
 Betreuung der Jugendlichen sicherzustellen.
 
 
-Teilzeitausbildung nach §8 BBIG
+## Teilzeitausbildung nach §8 BBIG
 
 - mit Begründung möglich
 - Alleinerziehende und junge Eltern können Verkürzung der Arbeitszeit beantragen - auf 20-30 Wochenstunden
