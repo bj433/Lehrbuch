@@ -1,4 +1,6 @@
-Zwei zeitlich auseinanderfallende Prüfungsteile sollen feststellen:
+# Gestreckte Abschlussprüfung der IHK nach Ausbildungsordnung
+
+## Zwei zeitlich auseinanderfallende Prüfungsteile sollen feststellen:
 
 - Berufliche Handlungsfähigkeit
 - Beherrschung erforderlicher beruflicher Fähigkeiten
@@ -6,11 +8,11 @@ Zwei zeitlich auseinanderfallende Prüfungsteile sollen feststellen:
 - im Berufsschulunterricht zu vermittelnde Kompetenzen
 
 
-Erster Teil: etwa Mitte des zweiten Ausbildungsjahres, schriftliche Prüfungsaufgaben
-Zweiter Teil: schriftlich und mündlich: fünf Prüfungsbereiche zum Ausbildungsende
+**Erster Teil**: etwa Mitte des zweiten Ausbildungsjahres, schriftliche Prüfungsaufgaben
+**Zweiter Teil**: schriftlich und mündlich: fünf Prüfungsbereiche zum Ausbildungsende
 
 
-Die gestreckte Abschlussprüfung ist mit folgenden Leistungen bestanden:
+## Die gestreckte Abschlussprüfung ist mit folgenden Leistungen bestanden:
 
 - Gesamtergebnis Teil 1 und Teil 2 mind. "ausreichend"
 - Ergebnis Teil 2 mind. "ausreichend"
@@ -18,9 +20,9 @@ Die gestreckte Abschlussprüfung ist mit folgenden Leistungen bestanden:
 - kein Prüfungsbereich von Teil 2 "ungenügend"
 
 
-Erster Teil (Gewichtung insg. 20%)
+## Erster Teil (Gewichtung insg. 20%)
 
-Prüfungsbereich 1: schriftliche Fachaufgabe
+**Prüfungsbereich 1**: schriftliche Fachaufgabe
 
 - "Einrichten eines IT-gestützten Arbeitsplatzes"
   - Etwa Mitte des zweiten Lehrjahrs werden über die ersten 15 Monate der Ausbildung ganzheitliche schriftliche Prüfungsaufgaben in Handlungsschritten gestellt.
@@ -28,9 +30,9 @@ Die Prüfung ist für alle Berufe gleich, es wird nur in den berufsbildungsüber
 Dieser Prüfungsbereich hat das Leitthema "Einrichten eines IT-gestützten Arbeitsplatzes". Die Prüfungszeit beträgt 90 Minuten, die Gewichtung in der Gesamtbewertung 20%.
 
 
-Zweiter Teil - Schriftliche Prüfungsbereiche und Fachgespräch (Gewichtung insg. 80%)
+## Zweiter Teil - Schriftliche Prüfungsbereiche und Fachgespräch (Gewichtung insg. 80%)
 
-Teil A - Prüfungsbereich 2: Erstellung einer betrieblichen Projektarbeit (50%)
+### Teil A - Prüfungsbereich 2: Erstellung einer betrieblichen Projektarbeit (50%)
 
 - In 40 Stunden soll ein betrieblicher Auftrag/Teilauftrag bearbeitet und mit praxisbezogenen Unterlagen dokumentiert werden. Im Projektantrag ist der IHK bzw. dem 
 Prüfungsausschuss das Thema der Projektarbeit mit einer Kurzbeschreibung zur Genehmigung vorzulegen.
@@ -42,7 +44,7 @@ Am Prüfungstag soll die Projektarbeit dem Prüfungsausschuss in einem 30-minüt
 Auszubildende sollten sich daher auf Nachfragen zum Projekt oder zu Fachfragen aus den Lernfeldern der Ausbildung und der Berufsschule einstellen.
 
 
-Teil B
+### Teil B
 
 - Prüfungsbereich 3-4 - berufsspezifische Aufgaben (je 10%)
   - Dieser Prüfungsteil besteht aus zwei schriftlichen Prüfungsteilen: Zwei speziell auf den jeweiligen IT-Beruf abgestellte ganzheitliche Aufgaben nach Handlungsschritten
