@@ -1,18 +1,20 @@
-Mitbestimmungsgesetze
+# Mitbestimmungsgesetze, Betriebsrat und Betriebsvereinbarungen
 
-- Betriebsverfassungsgesetz
+## Mitbestimmungsgesetze
+
+- **Betriebsverfassungsgesetz**
   - Zusammenarbeit zwischen Arbeitgeber und Betriebsrat
   - Stellung der Gewerkschaften/Arbeitgeberverbände
   - Informationspflichten, Zustimmungs- und Mitbestimmungsrechte des Betriebsrats
   - Verfahren im Streitfall
   - Regelmäßige Betriebsratsversammlungen als Vereinbarungsstelle zwischen BR und Geschäftsleitung
-- Personalvertretungsgesetz
+- **Personalvertretungsgesetz**
   - s.O. im Bezug auf öffentlichen Dienst
-- Mitbestimmungsgesetz
+- **Mitbestimmungsgesetz**
   - Regelung der Arbeitnehmervertretung in den Aufsichtsräten großer Unternehmen
 
 
-Betriebsrat
+## Betriebsrat
 
 - Interessenvertretung der Arbeitnehmer im Betrieb
 - Wahlen alle 4 Jahre
