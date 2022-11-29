@@ -32,9 +32,10 @@ Dieser Prüfungsbereich hat das Leitthema "Einrichten eines IT-gestützten Arbei
 
 ## Zweiter Teil - Schriftliche Prüfungsbereiche und Fachgespräch (Gewichtung insg. 80%)
 
-### Teil A - Prüfungsbereich 2: Erstellung einer betrieblichen Projektarbeit (50%)
+### Teil A
 
-- In 40 Stunden soll ein betrieblicher Auftrag/Teilauftrag bearbeitet und mit praxisbezogenen Unterlagen dokumentiert werden. Im Projektantrag ist der IHK bzw. dem 
+- **Prüfungsbereich 2: Erstellung einer betrieblichen Projektarbeit (50%)**
+  - In 40 Stunden soll ein betrieblicher Auftrag/Teilauftrag bearbeitet und mit praxisbezogenen Unterlagen dokumentiert werden. Im Projektantrag ist der IHK bzw. dem 
 Prüfungsausschuss das Thema der Projektarbeit mit einer Kurzbeschreibung zur Genehmigung vorzulegen.
 Bei der Wahl und Ausgestaltung des Projektthemas sollte neben dem Umfang der Anspruch der Projektarbeit beachtet werden, wobei das systematische Planen, Konzipieren,
 Durchführen und Kontrollieren des Projektes sichtbar werden sollte. 
