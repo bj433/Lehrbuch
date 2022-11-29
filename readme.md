@@ -1,4 +1,4 @@
-Übersicht über Fächer:
+# Übersicht über Fächer:
 
 - LF1: Das Unternehmen und die eigene Rolle im Betrieb beschreiben
 - LF2: Arbeitsplätze nach Kundenwunsch ausstatten
