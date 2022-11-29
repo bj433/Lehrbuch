@@ -1,3 +1,5 @@
+# Berufsbilder der IT-Berufe
+
 ## Allgemein:
 
 IT-Systemelektroniker, Kaufleute für IT-Systemmanagement, Kaufleute für Digitalisierungsmanagement und Fachinformatiker bilden die Berufsgruppe "IT-Berufe". 
@@ -13,7 +15,7 @@ Sie erlangen gemeinsame Kernqualifikationen und spezifische Berufsqualifikatione
     - Ausbildungsverordnung
     - Rahmenlehrpläne
 
-## Berufsbilder der IT-Berufe:
+## Berufsbilder:
 
 - **IT-Systemelektroniker**
     - Beschäftigung bei Herstellern und Betreibern von IT-Infrastrukturen und IT-Systemen, sowie Installationsbetrieben für Sicherheitstechnik
