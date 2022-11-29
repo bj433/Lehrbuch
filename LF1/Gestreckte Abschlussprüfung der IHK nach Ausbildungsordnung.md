@@ -46,8 +46,8 @@ Auszubildende sollten sich daher auf Nachfragen zum Projekt oder zu Fachfragen a
 
 ### Teil B
 
-- Prüfungsbereich 3-4 - berufsspezifische Aufgaben (je 10%)
+- **Prüfungsbereich 3-4 - berufsspezifische Aufgaben (je 10%)**
   - Dieser Prüfungsteil besteht aus zwei schriftlichen Prüfungsteilen: Zwei speziell auf den jeweiligen IT-Beruf abgestellte ganzheitliche Aufgaben nach Handlungsschritten
 müssen in jeweils 90 Minuten bearbeitet werden.
-- Prüfungsbereich 5 - Wirtschafts- und Sozialkunde (10%)
+- **Prüfungsbereich 5 - Wirtschafts- und Sozialkunde (10%)**
   - In 60 Minuten werden fallbezogen allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt dargestellt und dazu gebundene Fragen gestellt.
