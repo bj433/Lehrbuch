@@ -1,4 +1,6 @@
-Tarifvertrag
+# Tarifvertrag und Streik
+
+## Tarifvertrag
 
 - Regelung der Arbeits- und Einkommensbedingungen
 - Abschluss zwischen zuständigen Gewerkschaften und Arbeitgeberverbänden/einzelnen Unternehmen als Tarifparteien
@@ -9,9 +11,9 @@ Tarifvertrag
 - Flächentarifvertrag für räumlichen Geltungsbereich eines Wirtschaftszweiges
 
 
-Streik
+## Streik
 
-- Arbeitskampfmaßnahmen
+- **Arbeitskampfmaßnahmen**
   - Ende der Friedenspflicht 4 Wochen nach Ende des Tarifvertrages
   - Einleitung eines Schlichtungsverfahrens
   - Urabstimmung für einen Streik
@@ -20,16 +22,16 @@ Streik
   - Müssen Grundsatz der Verhältnismäßigkeit beachten (nur mit Zustimmung und nur, wenn eine anderweitige Schlichtung erfolglos blieb)
   - Vor/während Streiks ist Schlichtung auch noch möglich
 
-- Streikparteien
+- **Streikparteien**
   - Gewerkschaften und Arbeitgeber
   - Beteiligung an nicht von Gewerkschaft durchgeführtem Streik = Schadensersatz, Abmahnung oder Kündigung
 
-- Ansprüche
+- **Ansprüche**
   - Kein Anspruch auf Lohn oder Gehalt für Streikende (im Streikzeitraum)
   - Gewerkschaftsmitglieder erhalten Streikgeld
   - Arbeitgeber = Antwort mit Aussperrung oder Stilllegung
 
-- Streikarten
+- **Streikarten**
   - Arbeitseinstellung
   - Schwerpunktstreik
   - Dienst nach Vorschrift
@@ -38,7 +40,7 @@ Streik
   - Dürfen keine politischen Ziele verfolgen
   - Dürfen nur von Gewerkschaften durchgeführt werden
 
-- Streikverbot
+- **Streikverbot**
   - tariflich festgelegte Friedenspflicht
   - Warnstreiks möglich während Tarifverhandlungen
 
