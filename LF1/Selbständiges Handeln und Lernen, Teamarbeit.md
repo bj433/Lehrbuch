@@ -1,4 +1,6 @@
-Handlungskompetenz
+# Selbständiges Handeln und Lernen, Teamarbeit
+
+## Handlungskompetenz
 
 Handlungskompetenz wird als die Bereitschaft und Befähigung des Einzelnen verstanden, sich in beruflichen, privaten und gesellschaftlichen Situationen
 sachgerecht, individuell, durchdacht und sozial verantwortlich zu verhalten.
@@ -6,7 +8,7 @@ Handlungskompetenz entfaltet sich in den Dimensionen von Fach-, Sozial- und Selb
 innenwohnender Bestandteil von Fach-, Selbst- und Sozialkompetenz.
 
 
-Fachkompetenz
+## Fachkompetenz
 
 - Bildungsstand
 - Fachkenntnisse
@@ -15,7 +17,7 @@ Fachkompetenz
 - Arbeitsqualität
 
 
-Sozialkompetenz
+## Sozialkompetenz
 
 - Kooperations-/Teamfähigkeit
 - Höflichkeit
@@ -24,9 +26,9 @@ Sozialkompetenz
 - Toleranz
 
 
-Selbstkompetenz
+## Selbstkompetenz
 
-- Selstständigkeit
+- Selbständigkeit
 - Zuverlässigkeit
 - Sorgfalt
 - Konzentrationsfähigkeit
@@ -40,7 +42,7 @@ Selbstkompetenz
 - Selbstreflexion
 
 
-Kommunikative Kompetenz
+## Kommunikative Kompetenz
 
 - persönlich
 - schriftlich
@@ -48,7 +50,7 @@ Kommunikative Kompetenz
 - multimedial
 
 
-Methodenkompetenz
+## Methodenkompetenz
 
 - Zeitmanagement
 - Präsentationstechniken
@@ -56,7 +58,7 @@ Methodenkompetenz
 - Problemlösungstechniken
 
 
-Lernkompetenz
+## Lernkompetenz
 
 - Lernmotivation
 - Lernstrategien
