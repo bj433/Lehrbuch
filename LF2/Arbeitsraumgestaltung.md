@@ -16,4 +16,20 @@ und Ruhearbeit, Business-Center (Empfang, Poststation, etc.), Lounge als Rückzu
 
 ## Beleuchtung
 
-- 
+- Sehverhältnisse auf Aufgaben abgestimmt
+- mind. 500 Lux (Licht) vorgeschriebene Beleuchtungsstärke
+- effektive Nutzung von Tageslicht
+- Beleuchtung parallel zum Fenster an der Raumdecke
+- integrierter Dimmer
+- Einsatz von direkter und indirekter Beleuchtung
+- Vermeiden von Blenden und Spiegelungen
+- Kombi aus warmweißer und neutralweißer Beleuchtung
+
+
+## Lärmentwicklung
+
+- Jedes unerwünschte Geräusch = Lärm
+- Messung des Schalldruckpegels in dB - Bezug auf menschliches Gehör durch Zusatz A
+- bis 30 dB (A) optimal - 40 dB (A) sehr gut - 45 dB (A) gut - 55 dB (A) zu hoch
+- Einsatz von Geräten mit möglichst geringer Geräuschentwicklung
+- Von mehreren Leuten genutzte Geräte zentral in einem separaten Raum aufstellen
