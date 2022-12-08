@@ -1,4 +1,4 @@
-# Green-IT
+# Green-IT und Wirtschaftlichkeit
 
 - Leitbegriff zur Schaffung einer Unternehmenskultur, die IT möglichst umweltschonend beschafft und einsetzt. 
 - ganzheitliche Betrachtungsweise
@@ -85,6 +85,18 @@ Nachhaltigkeitsmanagementsystems
 - Vorziehen von lokalen Intranet-Lösungen und -Kommunikationssystemen
 - Präferenz von Onlinekonferenzen gegenüber Dienstreisen
 
-
+### Wirtschaftlichkeitsbetrachtung
+- **Preisvergleiche**: 
+  - Kostenbestandteil ist zunächst der Nettopreis = Bruttopreis abzgl. Umsatzsteuer = Bruttopreis / 1,19
+  - Berücksichtigung aller Rabatte, sonstiger Preisnachlässe und sonstigen Konditionen
+- **Anschaffungs- und Zusatzkosten**:
+  - Bezugskosten, Installationskosten, Schulungskosten, Einarbeitungskosten für Maschinen, Systeme und Anlagen
+- **Folgekosten**:
+  - Beschaffte Güter können sich in den Folgekosten unterscheiden
+  - Verbrauchskosten, Reparaturkosten, Wartungskosten
+- **Restwerte**:
+  - Wertverlust der beschafften Güter über Zeit in Wirtschaftlichkeitsbetrachtung einzubeziehen
+- **Sonstige Kriterien**:
+  - qualitative Angebotsvergleiche - nicht quantitativ bewertbare Beschaffungsgründe (Bspw. Lieferantenqualität)
 
 
