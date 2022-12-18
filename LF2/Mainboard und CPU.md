@@ -114,4 +114,13 @@
 - Hauptcontroller auf dem Mainboard zwischen einzelnen Komponenten des Computers
 - Vereinigung vieler Controller durch Halbleiterbaustein
 - Anbindung von Hauptprozessor, Bus-Systemen, Arbeitsspeicher, Laufwerken, Erweiterungskarten und anderen Geräten
+- Einfluss auf Gesamtleistung des Computersystems
+- Konfiguration über BIOS-Einstellungen
+- Verbindung zwischen Chipsatz und Hauptprozessor häufig PCI Express
+
+### Erhöhung der Taktfrequenz
+- Intelligente Ausnutzung der CPU und zeitweise Übertaktung zur Erhöhung der Rechnerleistung
+- Höherer Energieverbrauch, Höhere Wärmeentwicklung, lautere Computer durch aktive Kühlung
+
+### Parallelisierung
 - 
