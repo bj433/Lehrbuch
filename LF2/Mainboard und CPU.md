@@ -123,4 +123,45 @@
 - Höherer Energieverbrauch, Höhere Wärmeentwicklung, lautere Computer durch aktive Kühlung
 
 ### Parallelisierung
-- 
+- Nutzung der Wartezeit (durch Speicher- und Peripheriegeräte) - Ausführung anderer Programmcodes
+**Multithreading**:
+  - Parallele Verwaltung mehrerer Threads und Funktionen
+  - Abwechselnde Zuschaltung abhängig von Beanspruchung
+  - Hyper-Threading stellt Betriebssystem Funktionen weiterer Prozessorkerne bereit
+**Pipelining**:
+  - Befehlsausführung parallel in mehreren Stufen und Phasen
+**Coprozessor**:
+  - Prozessor, der Hauptprozessor um Funktionen erweitert
+  - Entlastung bei bestimmten Rechenaufgaben
+**Multi-Prozessor**:
+  - Überwiegend in leistungsstarken Großrechnern oder Servern verbaut
+**Multi-Core-Prozessor**:
+  - Zusammenschaltung mehrerer Rechenkerne
+  - Betriebssystem kann mehrere Recheneinheiten verwalten
+
+### Turbo Boost (Intel) und Precision Boost (AMD)
+- Automatische Übertaktung
+- Bearbeitung von Ein-Kern-Programmen, Energieeinsparung und Wärmeoptimierung
+- Kerne nur nach Bedarf zugeschaltet
+- Beschleunigung von weniger belastenden Anwendungen
+  - Einzelne Kerne werden höher getaktet während andere in den Wartezustand versetzt werden
+
+### Multimedia-Erweiterungen
+- MMX, XMM, SEE Befehlsätze
+- Basis von 64 und 128 Bit
+
+### Thermal Design Power (TDP)
+- Maximal abgegebene Wärmeleistung eines Prozessors
+- Kernspannung und Temperatur
+- Liegt unterhalb der maximalen elektrischen Leistungsaufnahme
+**Kühler**: 
+  - Schutz des Prozessors vor Überhitzung und Ausfall
+  - Luftkühler, Wasserkühlung und All-in-one-Wasserkühlung
+  - Sollen höhere TDP als Prozessor haben
+  - CLC-Kühler (All in one) - geschlossener Kreislauf
+    - Montage wie Luftkühler, Kühlleistung einer Wasserkühlung
+
+### GDGPU
+- General Purpose Computation on Graphics Processing Unit
+- Programmier-Schnittstelle, die allgemeine Berechnungen der GPU auch auf der Grafikkarte ausführen kann
+- Nutzung bei Hochleistungscomputern
