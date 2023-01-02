@@ -14,6 +14,13 @@
   - Peripheral Component Interconnect Express
   - Hohe Datenübertragungsrate pro PIN
   - Stromversorgung der Peripherie
+  - Standard - Transferraten in Höhe von bis zu 32 GByte/s
 - hot-plug-fähig, d.h. Einbau während laufendem Betrieb (sofern vom Betriebssystem und der Hardware unterstützt)
 - Anschluss von Grafikkarten, Soundkarten, Thunderbolt-Karten, RAID-Controller
+- Anzahl der kaskadierten Lanes - Einfluss auf Geschwindigkeit
+  - x16 Slot für Grafikkarten
+  - x1 Slot für Erweiterungskarten
+  - x4- und x8 Slots bei einigen Mainboards auch vorliegend
+
+## SATA-Anschlüsse
 - 
