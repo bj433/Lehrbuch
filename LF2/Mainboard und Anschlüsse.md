@@ -23,4 +23,25 @@
   - x4- und x8 Slots bei einigen Mainboards auch vorliegend
 
 ## SATA-Anschlüsse
-- 
+- Anbindung von Festplatten, SSD-Laufwerken und optischen Laufwerken
+### Blaue SATA-Buchsen
+- Für schnellsten SATA-Standard vorgesehen (6 GBit/s)
+- Abwärtskompatibilität ohne Geschwindigkeitsvorteil
+### Schwarze und rote SATA-Buchsen
+- Unterschiedliche Bedeutung abhängig von Mainboard-Hersteller
+- Generell - Unterscheidung bei RAID-Fähigkeit
+
+## USB-Anschlüsse
+- Verbindung von USB-Schnittstellen an PC-Rückseite
+- USB 2.0 - Datentransferrate: 480 Mbit/s, Datenrate: 60 MB/s
+- USB 3.0 - Datentransferrate: 4,8 Gbit/s, Datenrate: 600 MB/s
+- USB 3.1 - Datentransferrate: 10 Gbit/s, Datenrate: 1,2 GB/s
+- USB 3.2 - Datentransferrate: 20 Gbit/s, Datenrate: 2 GB/s
+
+## M.2-Port
+- Port an Platine
+- Fixierung über Befestigungsschraube
+- Ablösen von mSATA - kleiner und flexibler
+- Mögliche Breiten: 12 - 30mm und Längen: 16 bis 110mm
+
+
