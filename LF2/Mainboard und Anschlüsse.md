@@ -44,4 +44,9 @@
 - Ablösen von mSATA - kleiner und flexibler
 - Mögliche Breiten: 12 - 30mm und Längen: 16 bis 110mm
 
+## Lüfteranschluss
+- 3-Pin-Anschluss zur Stromversorgung
 
+## Stromanschluss
+- 24-Pol-Anschluss zur Stromversorgung des Mainboards (ältere Modelle 20-Pol)
+- 8-Pol-Anschluss zur Stromversorgung des Prozessors
