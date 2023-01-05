@@ -28,4 +28,7 @@
 - Geräuschlos, lange Haltbarkeit
 - Kaum Wärmeentwicklung, benötigen keine Defragmentierung
 
-### 
+### Hybrid-Laufwerke (SSHD)
+- Daten auf HDD, Cache auf Flash-Speicher zwischengespeichert
+  - Beschleunigung des Datentransfers
+- 
