@@ -55,3 +55,36 @@
 - Konfigurationsdatenbank zwecks Ticketbearbeitung
 - Event-Management zur Sicherstellung der kontinuierlichen Überarbeitung von Konfigurationselementen und Services
 
+### Knowledge-Management
+- Wissensdatenbank + systematische Verwaltung besagter Datenbank
+- Redaktionelle Aufbereitung von wiederkehrenden Fragen - ausführliche Standardantworten
+
+### Change-Management
+- Planung, Genehmigung, Implementierung und Überprüfung von Veränderungen an Konfigurationselementen mit einem kontrolliertem Verfahren
+- Vermeidung nachteiliger Auswirkungen auf den Services oder den Kunden
+
+
+## Service-Operation
+
+### Incident-Management
+- Zentrale Funktion von Ticketsystemen - Verwalten von Incidents (Störungen, Problemen)
+
+### Request-Fulfillment (Service Requests)
+- Anfragen von IT-Services zur Beschaffung und Bereitstellung von Hardware, Software, Lizenzen und Informationen
+- Strukturierte Bereitstellung und dokumentierte Bearbeitung von Service Requests
+
+### Problem-Management
+- Verstärkte Ursachensuche nach häufigem Auftreten derselben Störung bei mehreren Anwendern
+- Behebung der Ursache wiederkehrender Incidents
+
+### Access-Management (IAM)
+- Authentifizierung und Autorisierung von Usern
+- Zentrale Verwaltung von Identitäten und Zugriffsrechten auf unterschiedliche Systeme und Applikationen
+
+
+## Service-Improvement
+
+### Continual-Service-Improvement-Management
+- Überprüfung und Verbesserung von Services
+- Feedbacks, Beschwerden, Analysen, Umfragen
+- IT-Assessments, PDCA, KVP, KPIs
