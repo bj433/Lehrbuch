@@ -53,3 +53,7 @@
 - Datensicherung und -speicherung
 - Schaffung redundanter Systeme zur Gewährleistung von Verfügbarkeit und Sicherheit der Netzwerkstruktur
 
+
+## Computernetze
+
+Ein Computernetz oder Rechnernetz(-werk) ist die Menge an Verbindungen, von selbständigen Rechnern unterschiedlichster Bauform, Funktion und Leistungsfähigkeit, welches den Datenaustausch der Geräte untereinander ermöglicht. Dies umfasst neben normalen PCs und Servern auch Messwertaufnehmer/Sensoren, Stellglieder/Aktoren, Ausgabegeräte wie z.B. Drucker oder Eingabegeräte wie Scanner.
