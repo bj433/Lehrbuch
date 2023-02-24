@@ -77,8 +77,10 @@
 
 **Clients** 
 - "Kunden" im Netzwerk: Arbeitsplatzrechner, Drucker, etc.
+
 **Server** 
 - Services für Clients
+
 **Drucker** 
 - Arbeitsgruppendrucker
 
