@@ -75,43 +75,46 @@
 
 ### Netzwerkknoten (Nodes)
 
-**Clients** - "Kunden" im Netzwerk: Arbeitsplatzrechner, Drucker, etc.
-**Server** - Services für Clients
-**Drucker** - Arbeitsgruppendrucker
+**Clients** 
+- "Kunden" im Netzwerk: Arbeitsplatzrechner, Drucker, etc.
+**Server** 
+- Services für Clients
+**Drucker** 
+- Arbeitsgruppendrucker
 
 ### Netzwerkgeräte
 
 **Switch**
 **Router**
 **Access Point**
--> Transport und Weiterleitung der Daten von Sender zum Empfänger, über Leitungen und Funk
+- Transport und Weiterleitung der Daten von Sender zum Empfänger, über Leitungen und Funk
 
 ### Adressen im Netzwerk
 
 **Host im Netzwerk**
 **Interface am Host**
 **Applikation auf dem Host**
--> 48 Bit MAC-Adresse
--> 32 Bit IP-Adresse
--> 128 Bit IPv6-Adresse
--> 32 Bit Subnetzmaske
+- 48 Bit MAC-Adresse
+- 32 Bit IP-Adresse
+- 128 Bit IPv6-Adresse
+- 32 Bit Subnetzmaske
 
 ### Strukturierte Verkabelung
 
 **Verteiler**
 **Anschlussdosen**
 **Leitungen**
--> Verteilerschränke mit 19 Zoll Breite zum Anschluss von Rechnern, Telefonen, Druckern
--> Verbindung von Verteilern, Dosen und Geräten
+- Verteilerschränke mit 19 Zoll Breite zum Anschluss von Rechnern, Telefonen, Druckern
+- Verbindung von Verteilern, Dosen und Geräten
 
 ### Netzwerk-Medien
 
 **Kupferleitungen**
 **Glasfaserleitungen**
 **Funk**
--> Kabel verbinden Verteiler und Anschlussdosen
--> Schnüre zum Anschließen von Endgeräten
--> Patchen im Verteiler
+- Kabel verbinden Verteiler und Anschlussdosen
+- Schnüre zum Anschließen von Endgeräten
+- Patchen im Verteiler
 
 ### Topologie
 
