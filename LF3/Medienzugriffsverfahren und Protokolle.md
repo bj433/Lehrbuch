@@ -65,3 +65,63 @@ Zentrale Station erteilt Sendeerlaubnis an die angeschlossenen Stationen
 - Keine Datenflusssteuerung, keine Stauverhinderung
 - Unabhängig von verwendeter Übertragungstechnik
 - Verbindungslos
+
+
+## Beispiele für Well-Known Ports
+
+### - Port 20
+- TCP
+- FTP-Datenübertragung
+
+### - Port 21
+- TCP/UDP
+- FTP-Steuerkanal
+
+### - Port 22
+- TCP/UDP
+- Secure Shell, Konsolensteuerung verschlüsselt (SSH)
+
+### - Port 23
+- TCP/UDP
+- Telnet, Konsolensteuerung
+
+### - Port 80
+- TCP
+- Hyper Text Transfer Protocol (HTTP)
+
+### - Port 110
+- TCP
+- PostOfficeProtocol v3
+
+### - Port 123
+- UDP
+- Network Time Protocol
+
+### - Port 143
+- TCP/UDP
+- Internet Message Access Protocol (IMAP)
+
+### - Port 161
+- UDP
+- Simple Network Management Protocol (SNMP)
+
+### - Port 201
+- TCP/UDP
+- Apple Talk
+
+### - Port 433
+- TCP
+- HTTPS (http over SSL/TLS)
+
+### - Port 631
+- TCP/UDP
+- Internet Printing Protocol und CUPS Common Unix Printing Protocol (IPP)
+
+### - Port 636
+- TCP
+- Lightweight Directory Access Protocol (LDAP)
+
+### - Port 860
+- TCP
+- iSCSI
+
