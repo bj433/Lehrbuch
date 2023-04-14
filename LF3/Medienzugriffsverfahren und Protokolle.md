@@ -1,4 +1,4 @@
-# Medienzzugriffsverfahren und Protokolle
+# Medienzugriffsverfahren und Protokolle
 
 ## Medienzugriffsverfahren
 
