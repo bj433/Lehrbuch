@@ -125,3 +125,14 @@ Zentrale Station erteilt Sendeerlaubnis an die angeschlossenen Stationen
 - TCP
 - iSCSI
 
+### - Port 989
+- TCP/UDP
+- Data FTP over SSL/TLS (FTPS)
+
+### - Port 990
+- TCP/UDP
+- Control FTP over SSL/TLS (FTPS)
+
+### - Port 1194
+- TCP/UDP
+- OpenVPN
