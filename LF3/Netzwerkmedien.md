@@ -60,3 +60,42 @@
 - Dämpfung begrenzt Faserstrecke
 - 2 Klassen: OS1 und OS2
 
+## Fasertyp
+
+### OM1
+- **Faserkennzeichnungsfarbe**: Orange
+- **Fasertyp**: 50/125 oder 62,5/125
+- **Minimale modale Bandbreite (850nm Wellenlänge)**: 200 MHz km
+- **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+
+### OM2
+- **Faserkennzeichnungsfarbe**: Orange
+- **Fasertyp**: 50/125
+- **Minimale modale Bandbreite (850nm Wellenlänge)**: 500 MHz km
+- **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+
+### OM3
+- **Faserkennzeichnungsfarbe**: Aqua
+- **Fasertyp**: 50/125
+- **Minimale modale Bandbreite (850nm Wellenlänge)**: 1500 MHz km
+- **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+
+### OM4
+- **Faserkennzeichnungsfarbe**: Violett
+- **Fasertyp**: 50/125
+- **Minimale modale Bandbreite (850nm Wellenlänge)**: 3500 MHz km
+- **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+
+### OM5
+- **Faserkennzeichnungsfarbe**: Lime
+- **Fasertyp**: 50/125
+- **Minimale modale Bandbreite (850nm Wellenlänge)**: 3500 MHz km
+- **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+
+### OS1
+- **Faserkennzeichnungsfarbe**: Gelb
+- **Fasertyp**: 9/125
+
+### OS2
+- **Faserkennzeichnungsfarbe**: Gelb
+- **Fasertyp**: 9/125
