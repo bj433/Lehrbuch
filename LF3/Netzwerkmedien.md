@@ -67,35 +67,42 @@
 - **Fasertyp**: 50/125 oder 62,5/125
 - **Minimale modale Bandbreite (850nm Wellenlänge)**: 200 MHz km
 - **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+- **Dämpfung**: 850nm = 3,5 dB/km; 1300nm = 1,5 dB/km; 1550nm = -
 
 ### OM2
 - **Faserkennzeichnungsfarbe**: Orange
 - **Fasertyp**: 50/125
 - **Minimale modale Bandbreite (850nm Wellenlänge)**: 500 MHz km
 - **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+- **Dämpfung**: 850nm = 3,5 dB/km; 1300nm = 1,5 dB/km; 1550nm = -
 
 ### OM3
 - **Faserkennzeichnungsfarbe**: Aqua
 - **Fasertyp**: 50/125
 - **Minimale modale Bandbreite (850nm Wellenlänge)**: 1500 MHz km
 - **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+- **Dämpfung**: 850nm = 3,0 dB/km; 1300nm = 1,5 dB/km; 1550nm = -
 
 ### OM4
 - **Faserkennzeichnungsfarbe**: Violett
 - **Fasertyp**: 50/125
 - **Minimale modale Bandbreite (850nm Wellenlänge)**: 3500 MHz km
 - **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+- **Dämpfung**: 850nm = 3,0 dB/km; 1300nm = 1,5 dB/km; 1550nm = -
 
 ### OM5
 - **Faserkennzeichnungsfarbe**: Lime
 - **Fasertyp**: 50/125
 - **Minimale modale Bandbreite (850nm Wellenlänge)**: 3500 MHz km
 - **Minimale modale Bandbreite (1300nm Wellenlänge)**: 500 MHz km
+- **Dämpfung**: 850nm = 3,0 dB/km; 1300nm = 1,5 dB/km; 1550nm = -
 
 ### OS1
 - **Faserkennzeichnungsfarbe**: Gelb
 - **Fasertyp**: 9/125
+- **Dämpfung**: 850nm = -; 1300nm = 1,0 dB/km; 1550nm = 1,0 dB/km
 
 ### OS2
 - **Faserkennzeichnungsfarbe**: Gelb
 - **Fasertyp**: 9/125
+- **Dämpfung**: 850nm = -; 1300nm = 0,4 dB/km; 1550nm = 0,4 dB/km
