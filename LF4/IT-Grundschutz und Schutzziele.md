@@ -63,3 +63,17 @@
   - Weitere Unterstützungen: Leitfaden Basisabsicherung für kleinere Unternehmen und Organisationen, Grundschutzprofile für versch. Anwendungsgruppen, Grundschutztools und Toolliste
 - IT-Grundschutz-Drafts: Veröffentlichung und Community von Entwürfen
 - Meldungen und Mitteilungen: Aktuelle Gefährdungen
+
+### Art. 32 Abs. 1 DSGVO - Sicherheit der Verarbeitung personenbezogener Daten
+- **Zu berücksichtigende Aspekte**: 
+  - Stand der Technik
+  - Implementierungskosten
+  - Art, Umfang
+  - Umstände
+  - Zweck der Verarbeitung
+  - Eintrittswahrscheinlichkeit
+  - Schwere des Risikos für Rechte und Freiheiten natürlicher Personen
+- Gewährleistung eines angemessenen Schutzniveaus
+
+- Preudonymisierung und Verschlüsselung personenbezogener Daten
+- Sicherstellung von Vertraulichkeit, Integrität, Verfügbarkeit und Belastbarkeit von Systemen und Diensten
