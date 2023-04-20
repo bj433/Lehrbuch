@@ -28,12 +28,6 @@
   - Behandlung von Sicherheitsvorfällen (Security Incident Management)
   - Vorsorge für IT-Forensik (systematische Untersuchung krimineller Handlungen)
 
-### PDCA (Deming-Zyklus)
-- Plan (Planen) 
-  - Do (Ausführung) 
-    - Check (Prüfen)
-      - Act (Handeln)
-
 
 ## IT-Grundschutz nach dem BSI
 
@@ -46,4 +40,26 @@
 - Sicherstellung eines Grundschutzes zur Informationssicherheit in Unternehmen und Organisationen
   - Bausteine, Standards und Handlungsempfehlungen gegeben
   - Aufbau eines Informationssicherheitsmanagementsystems (ISMS)
+  - Systematische Suche nach Schwachstellen
+  - Prüfung der Angemessenheit umgesetzter Schutzmaßnahmen
+  - Entwicklung von Sicherheitskonzepten
 - Schutzziele: Verfügbarkeit - Vertraulichkeit - Integrität
+- Berücksichtigung von Anforderungen aus Praxis und ISO 27001
+
+#### PDCA (Deming-Zyklus)
+- Plan (Planen) 
+  - Do (Ausführung) 
+    - Check (Prüfen)
+      - Act (Handeln)
+
+### Unterstützungsmaßnahmen
+- Verschiedene Unterstützungsmaßnahmen
+  - **IT-Grundschutz-Kompendium**: Beschreibung von elementaren Gefährdungen und Bausteinen zur Erstellung von ISMS in Unternehmen
+  - **Standards**: BSI-Standard 200-1 - 200-4
+    - 200-1: Managementsystem für Informationssicherheit
+    - 200-2: IT-Grundschutz-Vorgehensweise
+    - 200-3: Risikoanalyse auf der Basis von IT-Grundschutz, Rahmenbedingungen, Zielobjekte, Gefährdungsübersicht, Risikenbehandlung
+    - 200-4: Notfallvorsorge, Business Continuity Management
+  - Weitere Unterstützungen: Leitfaden Basisabsicherung für kleinere Unternehmen und Organisationen, Grundschutzprofile für versch. Anwendungsgruppen, Grundschutztools und Toolliste
+- IT-Grundschutz-Drafts: Veröffentlichung und Community von Entwürfen
+- Meldungen und Mitteilungen: Aktuelle Gefährdungen
