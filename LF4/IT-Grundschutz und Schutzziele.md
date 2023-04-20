@@ -34,3 +34,16 @@
     - Check (Prüfen)
       - Act (Handeln)
 
+
+## IT-Grundschutz nach dem BSI
+
+### Gesetzliche Grundlage
+- Nutzung von personenbezogenen Daten durch Beschäftigte ausschließlich auf Weisung des Verantwortlichen
+  - **Außer**: Verarbeitung der Daten gesetzlich vorgeschrieben
+- Zugangskontrolle zu personenbezogenen Daten muss vorliegen
+
+### Methodik und System
+- Sicherstellung eines Grundschutzes zur Informationssicherheit in Unternehmen und Organisationen
+  - Bausteine, Standards und Handlungsempfehlungen gegeben
+  - Aufbau eines Informationssicherheitsmanagementsystems (ISMS)
+- Schutzziele: Verfügbarkeit - Vertraulichkeit - Integrität
