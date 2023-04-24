@@ -65,4 +65,29 @@
   - Sollte-Anforderungen
 - Maßnahmenempfehlungen und Umsetzungshinweise (Best-Practice) als Ergänzungen
 
+### Kreuzreferenztabellen
+- 1 Kreuztabelle pro Baustein
+- Zusammenhang zwischen Gefährdungen und Anforderungen
+- Grundwerte der Gefährdungen
+
+### Zielobjekte
+- Objekte der Gefährdungslagen in Unternehmen
+- **Zielobjekttypen**:
+  - IT-System
+  - Anwendung
+  - Informationsverbund
+  - übergeordnete Aspekte
+- Spezielle Bezeichnungen zu vergeben:
+  - ERP-System in kaufmännischer Verwaltung
+  - Datennetz in Personalverwaltung
+  - Benutzerverwaltung aller Arbeitsplatzsysteme
+  - USB-Schnittstellen der Arbeitsplatzcomputer
+
+### Risikoanalyse
+- Verfahren zur Beurteilung von Gefahrenszenarien
+- Bewertung von Risiken in Abhängigkeit von:
+  - Eintrittswahrscheinlichkeit
+  - Schadensereignisse
+  - Schadenshöhe
+
 
