@@ -38,3 +38,17 @@
   - Einmalige Anmeldung des Arbeitsplatznutzers
   - Keine Extraanmeldung pro genutztes System notwendig
 
+
+## Elektronische Siegel und Vertrauensdienste
+
+### Qualifizierte Signatur
+- Schaffung von einheitlichen gesetzlichen Grundlagen für elektronische Vertrauensdienste
+- Stellen eine rechtsverbindliche Unterschrift dar
+- Qualifizierte Signatur/Siegelerstellungseinheiten zur Speicherung von kryptographischen Schlüsseln
+
+### Erzeugung und Überprüfung
+- Schlüsselpaar aus privatem und öffentlichen Schlüssel (private/public key)
+- Authentifizierung für Sender und Empfänger
+- Sicherstellung der Vertraulichkeit und Integrität der übermittelten Daten
+- Feste Zuordnung der Schlüssel an eine natürliche Person
+- Einsatz bei Entschlüsselung
