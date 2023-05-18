@@ -166,5 +166,17 @@
   - Prüfung auf Manipulation, wenn Datenträger wieder auftaucht
 
 #### Regelung der Mitnahme von mobilen Datenträgern
-- 
+- Festlegung von Umständen, Person und Inhalt der mobilen Datenträger 
+- Beachtung von Sicherheitsmaßnahmen
 
+#### Regelungen zum Versand von Datenträgern
+- Keine Beschädigungen
+- Ausrichtung der Verpackung des Datenträgers an Schutzbedürftigkeit
+- Nachweisverfahren über Versand und Eingang beim Empfänger
+
+#### Sichere Löschung der Datenträger vor und nach der Verwendung
+- Normaler Schutzbedarf: Datenträger mit bestimmten Muster überschrieben
+- Datenentfernung nicht mit Löschbefehl -> Restinformationen zur Rekonstruktion bleiben bestehen
+
+#### Verwendung von zertifizierten mobilen Datenträgern
+- Berücksichtigung von sicherer Datenerhaltung und vorhandener Verschlüsselung
