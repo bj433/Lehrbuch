@@ -68,5 +68,73 @@
 - Übertragungsraten zwischen 150 MB/s (SATA) und 600 MB/s (SATA 6)
 
 ## Cache
-- 
+- Zwischenspeicher von Festplatten
+- Je größer, desto schneller
+- Aktivität:
+  - Entpackung von Daten
+  - Kopieren, Verschieben und Duplizieren auf einem Laufwerk
+- Cache zwischen 16 und 64mb bei Standardfestplatten
+- Rechenintensiver -> 64 bis 128mb
+
+## Festplattenpartitionierung
+- Einteilung in separate Datenbereiche
+
+## NAND-Technologie
+- Flashspeicher
+
+### SLC (Single Level Cell)
+- Jede Zelle ein Bit
+- Niedrigere Kapazität, schnellere Zugriffszeiten
+- Zuverlässig, lange Lebensdauer, teuer
+- Server
+
+### MLC (Multi Level Cell)
+- Jede Zelle zwei Bitzustände
+- Mehr Kapazität, längere Zugriffszeiten
+- Schnellere Zellabnutzung, billig
+- Gaming-PCs
+
+### TLC (Triple Level Cell)
+- Jede Zelle drei Bits
+- Mehr Kapazität, langsamer, günstiger
+- Standard-PCs
+
+### QLC (Quadruple Level Cell)
+- Jede Zelle vier Bits
+- Größerer Speicher, günstiger
+- Lebensdauer wie bei TLC
+- Große Speicher mit wenig Zugriffen
+
+
+## NAS-System im Vergleich zu SAN und DAS
+
+### Network Attached Storage (NAS)
+- Eigenständiger Fileserver
+- Speicherplatz innerhalb eines Netzwerks
+- Spezifikationen:
+  - Anzahl der Laufwerkschächte
+  - Maximal unterstützte Speicherkapazität
+  - Schnittstellen
+  - CPU
+  - RAM
+  - Datentransferraten
+  - Netzwerkprotokolle
+  - Lüfter und Kühlung
+  - Unterstützte RAID-Level
+  - Software
+  - Betriebsbedienungen
+
+### Storage Area Network (SAN)
+- Speichernetz zur Zusammenfassung mehrerer Serverspeichereinheiten
+- Gemeinsame Nutzung von allen Servern
+- Flexible Speicherplatzzuweisung an einzelne Speicher
+
+### Direct Attached Storage (DAS)
+- Exklusives Speicherlaufwerk für einzelnen Rechner/Server
+- Hohe Datentransferleistung und kurze Zugriffszeiten
+
+
+
+
+
 
