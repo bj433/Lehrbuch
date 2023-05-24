@@ -25,5 +25,17 @@
 
 ### Aktoren und Sensoren (RFID und NFC)
 - Aktoren = Antriebstechnische Baueinheiten
-- Umsetzung von elektrischen Signalen in mechanische Bewegungen, physikalische Daten (Druck) oder Temperatur
-- 
+  - Umsetzung von elektrischen Signalen in mechanische Bewegungen, physikalische Daten (Druck) oder Temperatur
+- Sensoren = Umwandlung von nicht elektrischen Messgrößen in elektrische Signale
+- RFID = Radio Frequency Identification
+  - Datenerfassung von Transpondern durch Lesegeräte
+  - NFC = drahtlose RFID Kommunikation mit kurzer Reichweite
+
+### Cyber-physische Systeme (CPS)
+1. mechanische Komponenten
+2. Software
+3. Intelligente Informationstechnik
+- Kommunikation über verschiedene Betriebsarten
+  - Modbus ASCII
+  - Modbus TCP
+  - Modbus RTU
