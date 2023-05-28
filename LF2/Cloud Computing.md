@@ -81,3 +81,22 @@
   - Geringere Verbrauchskosten und nötiges IT-Personal
 - Nutzung professioneller IT-Ressourcen
 - Flexible Skalierung der Systeme nach Bedarf
+- Hohe Sicherheitsstandards für Verfügbarkeit und Datensicherheit
+- Ermöglichung neuer Geschäftsmodelle
+- Mögliche Konzentration der Unternehmen auf ihr Kerngeschäft
+- Vereinfachungen, Virtualisierungen, Kooperationen und Kosteneinsparungen
+- Kein Installationsaufwand und weltweit mögliche Nutzung
+- Weder Kosten noch Kenntnisse für Infrastruktur-Installation, -Migration
+- Effizienzsteigerung der Mitarbeiter
+
+## Nachteile für Nutzer
+- Beschränkung auf Online-Funktionalität (Internetanbindung)
+- Technologische, rechtliche und wirtschaftliche Abhängigkeit
+- Erschwerte Sicherstellung der Rechtsklarheit
+- Angebotsvergleiche nur bedingt möglich
+- Nachweispflicht der Datenlokationen
+- Notwendige Erfüllung von Sicherheits- und Zertifizierungsstandards
+- Keine Gewährleistung der Funktionstüchtigkeit im Insolvenzfall des Providers
+- Keine internen Regelungen zur Sicherheit vor Cyberattacken
+
+
