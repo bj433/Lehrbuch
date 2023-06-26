@@ -50,4 +50,4 @@
 
 ### Hardwarekosten und -größe
 - Kleinere Sensoren
-- 
+- Neue Einplatinencomputer und Mikrocontroller
