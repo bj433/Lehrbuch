@@ -77,4 +77,30 @@
 - Flexibilität im Personaleinsatz
 - Echtzeitinformationen und papierlose Anweisungen über geeignete Schnittstellen
 
-### 
+### Erhöhung der Flexibilität und Effizienz von Montageprozessen
+- Ideale Platzierung von Bauteilen und Montageelementen
+- Eindeutige Identifikation entsprechend der Montagereihenfolge
+- Automatische Überwachung beim Einbau
+- Informationstechnische Unterstützung der Montage mit visualisierten Anweisungen
+- Protokollierung und Dokumentation des Arbeitsergebnisses
+
+### Optimierung der Feinplanung an Fertigungslinien
+- Dashboards zur Visualisierung von Produktions- und Prozessdaten
+- Simulations- und Anpassungsmöglichkeiten von Feinplanungen
+- Informationsweitergabe von Änderungen an alle Mitarbeiter
+
+### Identifikation von Produktionsaufträgen und Produktdaten im gesamten Fertigungsprozess
+- Automatische Identifikation und Zuordnung von Bauteilen beim Transport und an Maschinen
+- Abgleich des momentanen Bearbeitungsstatus mit MES-System
+- Detaillierte Überwachung aller Produktionsaufträge
+
+### Durchgängige Qualitätskontrolle in der gesamten Fertigung
+- CPS-Sensoren in und an Maschinen, Anlagen und Arbeitsplätzen
+- Automatische Erfassung aller relevanten Qualitätsmerkmalen
+- Unmittelbare Erkennung und Behebung von Abweichungen
+- Verbesserung der Produktqualität mittels Inline-Qualitätsüberwachung (Kameras)
+
+### Generierung von wertschöpfenden Zusatzleistungen für Kunden
+- Erfassung der Nutzungs- und Umgebungsdaten von Produkten oder Maschinen in Kundenhand mittels CPS
+- Gezielte Realisierung von Produktverbesserungen und Weiterentwicklungen
+- Angebot neuer, wertschöpfender Dienstleistungen
