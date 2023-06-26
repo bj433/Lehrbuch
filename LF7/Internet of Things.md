@@ -37,3 +37,17 @@
 - Gewährleistung von Authentifizierung, Verschlüsselung und geschütztem Datentransfer
 - Schutz vor Angriffen und unberechtigtem Zugriff
 
+## Einflussfaktoren
+
+### Rechenleistung
+- Steigende Rechenleistung, sinkende Kosten
+- Verringerung des Energiebedarfs
+
+### Konnektivität
+- Sinkende Übertragungskosten für Daten
+- Verbesserte Netzabdeckung
+- Unterschiedliche Funktechnologien
+
+### Hardwarekosten und -größe
+- Kleinere Sensoren
+- 
