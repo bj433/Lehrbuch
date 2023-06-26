@@ -50,3 +50,31 @@
 
 ### Erhöhung der Maschinenverfügbarkeit in der Produktion
 - Vorausschauende Instandhaltung (Predictive Maintenance)
+- Echtzeiterfassung des Zustands von Maschinenelementen
+  - Intelligente Sensorik
+- Vorausberechnung von Maschinenstörungen
+- Gezielter Einsatz von Servicetechnikern
+- Minimierung von Produktionsstillständen
+- Erhöhung der Maschinenverfügbarkeit
+
+### Maschinenübergreifende Koordination von Maschinenprozessen
+- MES (Manufacturing Execution System)
+- Erfassung von Rückmeldungen zum aktuellen Fertigungsstand
+- Rückübermittlung an Maschinen
+
+### Reduktion des Energieverbrauchs von Anlagen und Maschinen
+- Eigenständige Überwachung und Erfassung des Energieverbrauchs von Maschinen und Anlagen
+- Koordination nach Berücksichtigung von vordefinierten Rahmenbedingungen
+- Lastspitzenreduktion
+- Ausgleich des Gesamtverbrauchs
+
+### Optimierung des Werkzeugmanagements
+- Automatische Erfassung von Betriebsdaten durch CPS (cyber-physische Systeme)
+- Lebenszyklusüberwachung der Werkzeuge
+- Effiziente Steuerung von Instandhaltungsmaßnahmen
+
+### Vereinfachung des Informationsaustauschs zwischen Maschine und Mensch
+- Flexibilität im Personaleinsatz
+- Echtzeitinformationen und papierlose Anweisungen über geeignete Schnittstellen
+
+### 
