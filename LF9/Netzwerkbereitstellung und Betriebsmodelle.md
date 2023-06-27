@@ -80,5 +80,11 @@
     - Grundlegender Wechsel der Software-Infrastruktur
   - Live-Migration:
     - Wechsel auf anderes System im laufenden Betrieb
-    - Bspw.:
-      - 
+        - Bspw.:
+          - Umzug einer VM
+          - Von physikalischen Wirtsystem (Host) auf anderes System
+          - Umstellung auf neue Schnittstellen, Techniken oder Versionen
+  -  On-Premise-to-Cloud-Migration:
+     - Wechsel lokales Datensystem auf Cloudserver
+     - Eigene Administration -> Dienste eines Providers
+
