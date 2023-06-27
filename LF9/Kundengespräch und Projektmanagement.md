@@ -28,5 +28,6 @@
   - Andere oder zusätzliche Geräte
  
 ### Netzwerksystem
-
+- Ist-Zustand:
+  - 
 
