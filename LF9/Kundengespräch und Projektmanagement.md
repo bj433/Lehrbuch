@@ -29,5 +29,27 @@
  
 ### Netzwerksystem
 - Ist-Zustand:
-  - 
+  - Aktive und passive Netzwerkkomponenten
+    - Unterdimensionierungen, Störungen oder fehlende Anschlüsse
+- Soll-Zustand:
+  - Verbesserungspotenziale
+  - Mögliche Zusatzinstallationen (Access Points, Repeater)
+ 
+### Datensicherung
+- Ist-Zustand:
+  - Gewährleistung der Datensicherheit?
+- Soll-Zustand:
+  - Geforderte erhöhte Sicherheitsstandards
+ 
+### Administration und Support
+- Ist-Zustand:
+  - Netzwerkverwalter
+  - Supporter und Inhalte
+  - Verfügbarkeit der Administration und Support
+  - Supportkosten
+- Soll-Zustand:
+  - Änderungswünsche aus Kundensicht/Beratersicht
+ 
+### Sicherheitsanforderungen
+
 
