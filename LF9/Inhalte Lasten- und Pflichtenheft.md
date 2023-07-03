@@ -6,6 +6,13 @@
 - Vom Auftraggeber festgelegt
 - Gesamtheit der Forderungen an die Lieferungen und Leistungen eines Auftragnehmers
 - Anforderungskatalog, Kundenspezifikation oder Leistungsverzeichnis
+- Beschreibung von Rahmenbedingungen der Leistungserbringung
+  - Normen, Richtlinien, Standards, Eigenleistungen
+- Vertraglich durch Kunden geregelte Konditionen
+  - Gewährleistungsanforderungen, Vertragsstrafen, Risikomanagement
+- Anforderungen an Auftragnehmer
+  - Notwendige Referenzen und Zertifizierungen
+- Grundlage zur Erstellung eines Pflichtenheftes oder RFI (Request for Information)
 
 ### Analyse Ausgangssystem und Zielsetzung
 
@@ -95,4 +102,92 @@
 ## Functional Specifications
 - Vom Auftragnehmer erarbeitet
 - Realisierungsvorgaben auf Basis des Lastenheftes
-- 
+- Fachspezifikation, Fachfeinkonzept, Sollkonzept, funktionale Spezifikation, Gesamtsystemspezifikation u.A.
+- Grundlage der vertraglich festgehaltenen Leistungen
+- Art der Umsetzung
+- Aufstellung im Rahmen der Werk- und Montageplanung
+- Fachlich genaue Spezifizierung, Begründung und Überprüfung der Dienste
+- Offenlegung der Kalkulationsgrundlagen für Preiskalkulation
+- Projektstrukturplan mit Arbeitspaketen, fachlichen Anforderungen und Rahmenbedingungen
+
+### Analyse Ausgangssituation und Zielsetzung
+
+#### Ausgangssituation
+- Genaue technische Beschreibung
+
+#### Zielsetzung
+- Fachliche Beschreibung
+- Teilziele (S-M-A-R-T)
+- Unternehmensrichtlinien
+
+#### Sollkonzept
+- Fachliche Angaben
+  - Netzplan
+  - Schnittstellen
+  - KPI
+  - Verweise
+ 
+### Funktionale Anforderungen
+
+#### Muss-Kriterien
+- Leistungsgrößen und KPI von Infrastruktur, Netzkomponenten und Netzdienste/-software
+
+#### Kann-Kriterien
+- Erweiterungsmöglichkeiten
+- Upgrade-Regelungen
+- Alternativen
+- Mögliche Unterstützungen
+
+#### Abgrenzungskriterien
+- Nennung erhöhter Leistungsgrößen
+
+### Nicht funktionale Anforderungen
+
+#### Qualität
+- Qualitätsmerkmale der Netzwerkbereitstellung
+  - Infrastruktur, Komponenten, Dienste
+ 
+#### Administration
+- Angaben nach SLA
+- Interne und externe Administration
+- Monitoring
+- Wartung
+
+#### Spezielle Anforderungen
+- Konkrete Vorgaben nach Unternehmensvorgaben
+
+### Sicherheit und Datenschutz
+- Schutzbedarfsanalysen, Risikoanalysen
+- DSGVO, DSG
+
+#### Allgemeine Anforderungen
+- Konkrete Nennung von TOM
+- Datensicherungsanforderungen
+- Zu gewährende Sicherheitsstufen
+
+#### Besondere Anforderungen
+- Fachliche Vorgaben nach Lastenheft
+
+### Lebenszyklus des Netzwerksystems
+- Angabe von Nutzungszeiten der Komponenten
+- Einplanung von Wartung und Ersatz
+
+#### Zeitpunkt und Zeitraum der Umsetzung
+- Genaue zeitliche Projektplanung
+
+#### Abzulösende Systeme
+- Tabellarische Übersicht/Netzplan
+
+#### Wartung und Administration
+- Festlegung Involvierung, Ressourcen und Überprüfbarkeit
+
+### Lieferumfang
+
+#### Infrastruktur
+- Fachliche Vorgaben der notwendigen Infrastruktur
+- Vorhanden und bereitszustellen
+
+#### Netzwerkbereitstellung
+- Fachliche Vorgaben für aktive und passive Komponenten und Dienste
+
+#### Dokumentation, Abnahme, Einweisung und Schulung
