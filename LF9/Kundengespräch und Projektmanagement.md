@@ -104,6 +104,28 @@
 - Einzuhaltende Realisierungsbedingungen
 - Bspw.: Kosten, Dauer oder Muss- und Kann-Ziele
 
+### Ziele
+- Formulierung nach S-M-A-R-T (Spezifisch, Messbar, Ausführbar, Realistisch, Terminiert)
+
+### Meilensteine
+- Ereignis besonderer Bedeutung nach DIN 69900
+- Bspw. Teilprojektabschluss oder Zwischenergebnis
+- Termin für wichtige Teambesprechung oder richtungsweisende Entscheidungen
+
+### Funktionale Anforderungen
+- Beschreibung der Fähigkeiten eines Systems nach Anwendererwartungen
+- Lösung fachlicher Probleme
+- Ableitung von zu unterstützenden Vernetzungen und Inanspruchnahme
+
+### Nicht funktionale Anforderungen
+- Beschreibung von Systemanforderungen nicht-fachlicher Natur
+- Entscheidender Beitrag zur Anwendbarkeit des Systems
+- Bspw. Qualitätsanforderungen, Compliance, Nachhaltigkeitsanforderungen, Sicherheitsanforderungen oder Benutzer-/Administrationsanforderungen
+
+### IT-Sicherheitsanforderungen und Schutzbedarf
+- Gesonderte Aufstellung
+- Benennung von Sicherheitsrichtlinien und Anforderungen aus Schutzbedarfsanalyse
+- Gewährleistung der Vertraulichkeit, Integrität und Verfügbarkeit des Systems
 
 
 
