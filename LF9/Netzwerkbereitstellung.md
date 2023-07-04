@@ -82,3 +82,61 @@
   - Drei Kopien aller kritischen Daten sollten mind. auf
   - Zwei unterschiedlichen Medien existieren,
   - Ein Medium davon sollte außerhalb/extern gelagert werden
+
+## Einsatz redundanter Systeme (Redundanz)
+- Existenz mehrerer funktional gleicher/vergleichbarer Ressourcen eines technisches Systems
+- Keine zwangsläufige Notwendigkeit im Normalbetrieb
+
+### Funktionelle Redundanz
+- Mehrfach parallele Auslegung sicherheitstechnischer Systeme
+- Gewährleistung von Diensten trotz Ausfall eines Komponenten
+
+### Redundante Datensicherung
+- Datensicherung nach Erfordernis redundant
+
+### Räumliche Redundanz
+- Räumliche Trennung redundanter Systeme
+- Minimierung eines Störungsrisikos
+
+### Organisatorisch diversitäre Redundanz
+- Paralleler Einsatz vielfältiger Berater/Hersteller/Analytiker/Monitoringsysteme
+
+## DevOps-Ansatz und -Kultur
+
+### Begriff
+- Development (Entwicklung) und Operations (Vor-Ort-Einsatz)
+- Arbeitskultur zur Prozessverbesserung in der Softwareentwicklung und Systemadministration
+- Agiler Teamansatz - Herausstellung der Bedeutung von Zusammenarbeit zwischen Entwicklung und Betrieb
+- Vorgang effizient, automatisiert und mit KI
+- Unterschiedliche Entwicklungsbereiche -> unterschiedliche Ausgestaltungen
+- Bspw.:
+  - DevOps Engineer
+  - Cross-Platform DevOps
+  - Site Reliability Engineering (SRE)
+  - BizDevOps
+
+### DevOps nach dem CALMS-Modell
+- C = Kultur (Culture)
+- A = Automatisierung (Automation)
+- L = Schlank (Lean)
+- M = Messung (Measurement)
+- S = Austausch (Sharing)
+
+### DevOps-Prinzipien
+- Kundenorientiertes Handeln: Bessere Berücksichtigung von Kundenerfahrungen
+- Zielorientiertes Handeln: Gemeinsame, agile Verantwortlichkeit
+- End-to-End-Verantwortung: Proaktives Handeln im gesamten Projektlebenszyklus
+- Funktionsübergreifende flexible Teams und plattformübergreifende (cross-platform) Infrastrukturlösungen
+- Ständige Verbesserung: Kontinuierliche Technologieanpassung und -steuerung in Netzwerkbereitstellung
+  - Updates, Upgrades, Tests, Monitoring, Case-Management
+- Umfassende Standardisierung und Automatisierung
+  - Durch Monitoring, Automatisierung und Orchestrierung
+ 
+### DevOps Praktiken
+- Kontinuierliche Integration (Continuous Integration)
+  - Beschreibung eines kontinuierlichen Prozesses der Softwareentwicklung im Lebenszyklus
+  - Automatisierte Übersetzung und Unit-Testing der aktuellesn Softwarequellen aller Entwickler
+ 
+### Kontinuierliche Bereitstellung (Continuous Delivery)
+- Schritte zur Bereitstellung von Anwendungssoftware für Kunden
+  - Packaging, Releasing, Configuring, Monitoring
