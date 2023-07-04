@@ -140,3 +140,60 @@
 ### Kontinuierliche Bereitstellung (Continuous Delivery)
 - Schritte zur Bereitstellung von Anwendungssoftware für Kunden
   - Packaging, Releasing, Configuring, Monitoring
+
+
+## Varianten der Netzwerkbereitstellung
+
+### Architektur-Modelle im Cloud Computing (Webservices)
+- Enterprise Architecture (EA)
+- Service Oriented Architecture (SOA)
+- Service Oriented Enterprise Architecture (SOEA)
+- Service Oriented Infrastructure (SOI)
+- Service Oriented Enterprise (SOE)
+- Service Oriented Management (SOM)
+
+### Konfiguration
+- Installation des richtigen Protokolls (TCP/IP) auf den Geräten im Netz
+- Eigene IP-Adresse für jedes Gerät
+- Zugehörigkeit zur selben Arbeitsgruppe/IP-Adressbereich im Fall von Datenaustausch zwischen Geräten
+
+### Provisionierung
+- Verwaltung des Zugriffs auf Daten und Ressourcen
+- Bereitstellung für Nutzer (Benutzerkontenverwaltung) und Systeme
+- Bereitstellungspakete über Konfigurationsdienstanbieter
+- Management von Provisionierungen und Deprovisionierungen über Tools
+- SCIM (System for Cross-domain Identity Management) = offener Standard für automatisierte Bereitstellung von Benutzerkonten
+- Systemprovisionierung:
+  - Einrichtung physischer Hardware in Rechenzentren
+  - Installation und Konfiguration von Software, Betriebssystem und Anwendungen
+  - Verbindung mit Middleware, Netzwerken und Storage
+- Netzwerkprovisionierung:
+  - Einrichtung von Netzwerken
+  - Zugriff auf Nutzer, Server, IoT und Container
+- Nutzerprovisionierung:
+  - Identitätsmanagement
+  - Überwachung der Zugriffs- und Autorisierungsrechte für E-Mail, Datenbank oder Netzwerkzugriffe
+- Serviceprovisionierung:
+  - Einrichtung eines Service
+  - Verwaltung verbundener Daten
+ 
+### Orchestrierung
+- Automatisierte Konfiguration, Verwaltung und Koordinierung von Computersystemen
+- Effiziente Aufgabenbewältigung
+- Zuweisung von Aufgaben an Prozesse und Dienste
+- Steuerung von Abhängigkeiten
+- Schaffung einer Gesamtkonzeption diverser Cloud-Umgebungen
+- Einsatz von Docker, Kubernetes, ServiceNow, MS Configuration Manager oder Red Hat Ansible
+
+### Automatisierung
+- Einsparung manueller Aufgaben
+  - Administration von Routern, Switches, Load Balancers, Firewalls
+  - Aufwendige Änderungen an Konfigurationen
+- Einsatz von Technologien und Verfahren zur Netzwerkautomatisierung
+- Ausführung programmierter Skripte im Betriebssystem oder mittels Automatisierungssoftware
+- Bspw.:
+  - Infrastrukturautomatisierung
+  - Cloudautomatisierung
+  - Netzwerkautomatisierung
+  - IT-Sicherheitsautomatisierung
+  - Patch-Management-Automatisierung
