@@ -46,3 +46,50 @@
 ### Abnehmbare Antennen
 - Austauschbarkeit
 
+## Technische Anforderungen an Firewalls
+- Software zur Filterung und ggf. Blockierung von Netzwerkverkehr
+- Schutz von Netzwerken
+- Dedizierte Hardware
+
+### Internet Gateway
+- Überwachung von gesamtem Datenverkehr als Gateway
+- Paketfilter für UDP/TCP Nachrichten
+  - Filterregeln für erlaubte/unerlaubte IP-Absenderadressen, IP-Zieladressen und Ports
+- Stateful Paket Inspection zur Speicherung offener Verbindungen
+- Deep Paket Inspection zur Analyse und Filterung von IP-Headern
+- Firewallkonfiguration über Regeln
+
+### VPN Gateway
+
+### URL-/Inhaltsfilter
+- Regelwerk zur Blockierung diverser URLs
+
+### Intrusion Detection
+- Erkennung von Abfolgen an Netzwerkpaketen als möglicher Eindringversuch
+
+### Intrusion Prevention (NGFW)
+- Abwehr von Eindringversuchen durch Deep Paket Inspection
+- Next Generation Firewall
+
+### Viren-, Spam-, Surfschutz
+
+### DDoS Abwehr
+- Erkennung und Abwehr von massivem Empfang von Nachrichtenpaketen
+
+### Authentifizierung
+- Autorisierungspflicht zur Konfiguration der Firewall
+
+### Quality of Service
+- Mögliche Priorisierung von IP-Paketen
+
+### Reporting
+- Berichte für Administrator
+
+### SFP/LAN/WIFI/LTE/UMTS
+- Anpassung der Hardware Firewall an eingesetztes Netzwerk
+
+### Datendurchsatz
+
+### VPN-/HTTP-Proxy
+- Scan und Filterung vertraulicher Daten
+
