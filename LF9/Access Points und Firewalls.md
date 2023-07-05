@@ -93,3 +93,38 @@
 ### VPN-/HTTP-Proxy
 - Scan und Filterung vertraulicher Daten
 
+## Gateways
+
+### Hub
+- OSI Layer 1
+- Verteiler von Netzwerkdaten
+- Empfang und Sendung von Daten an alle Ports
+
+### Bridge
+- OSI Layer 2
+- Aufteilung von Netzen in Kollisionsdomänen
+
+### PowerLAN
+- Verwendung der Stromleitung zur Datenübertragung
+- Aufmodulation von Nutzdaten durch Trägersignal
+- Zwei Powerline-Adapter benötigt = Anfangs- und Endpunkt
+
+### Layer 3 Gateways (Router)
+- Verbindung zwischen Subnetzen
+- LTE-Router zur Verbindung eines WLANs mit LTE-Netz
+
+### NAT Gateways
+- Network Address Translation bei IPv4-Netzwerken
+
+### TLS Gateways
+- Terminierung von TLS-Verbindung
+
+### Proxy
+- OSI Layer 5-7
+- Application Layer Gateway
+- Empfang, Analyse und Weiterleitung von Nachrichten an eigentlichen Server
+- Sicherheitskomponente in der DMZ (Demilitarized Zone)
+
+### VPN Gateways
+- Sicherer Zugriff auf Firmennetz
+
