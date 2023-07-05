@@ -205,6 +205,8 @@
 - Erstellung eines http-Requests durch aufgelöste IP-Adresse
 - Unverschlüsselt = kann im Klartext mitgelesen werden
 - Absicherung = DNS over TLS, DNS over HTTPS oder DNS over QUIC
+- DNS-Filter = Blacklists vor dem DNS-Server
+  - Bestimmung über Ankunft von Anfragen an den Server
 
 #### DynDNS
 - Aktualisierung dynamischer IP-Adressen über DynDNS-Server
