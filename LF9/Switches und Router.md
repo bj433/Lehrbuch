@@ -18,4 +18,13 @@
 - Festlegung von Zugriffsrechten
 
 ### 100 GbE/40 GbE/10 GBase-T
+- Höhere Datendurchsatzraten -> höherer Preis
+- Sehr hohe Datendurchsatzraten mit Glasfaser
+
+### Ethernet/PoE+/Glasfaser
+- Unterschiedliche Ports und Datendurchsatzraten in einem Gerät
+
+### Anzahl Ports
+
+### Bauform
 - 
