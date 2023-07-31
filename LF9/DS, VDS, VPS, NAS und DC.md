@@ -111,3 +111,83 @@
 - Netzwerk-Ports gedrosselt
 - Bspw.: 200 MBit/s
 
+### Uneingeschränkter Traffic
+
+### Images/Software
+
+### Import eigener Images
+
+### Back-Up-Speicher
+- FTP-Speicher
+- Nötig für tägliche Serversicherungen (Konfigurationsdateien, Datenbankexporte, etc.)
+
+
+## Technische Anforderungen an Network Attached Storage
+
+### Grundlage
+- Dateiserver im eigenen Netzwerk
+- Differenzierung: Rechenzentrum - Kleinst-/Mittel-Netzwerke
+- Rechenzentrum: Optimierung auf höchste Schreib-, Lese- und Übertragungsraten
+- Kleinst-/Mittel: Integrierter Webserver und Betrieb von Serveranwendungen und virtuellen Maschinen
+
+### Bauform
+- 19-Zoll-Gehäuse für Rack-Montage oder Mini-Tower
+
+### Kapazität
+- Max. Anzahl SSD-Datenträger
+- Max. Gesamtkapazität
+
+### Verschlüsselungsmodul
+- Unterstützung von Verschlüsselung durch Hardware
+
+### Schreib- und Lesegeschwindigkeit
+- Geschwindigkeit in Megabytes pro Sekunde
+
+### RAID Level
+- Hardware-RAID zur Ausfallsicherheit
+- Laufwerkwechsel während Laufzeit
+
+### Filesystem
+- Bspw.: OpenZFS = Storage-System inkl. Dateisystem, Volume Manager, Snapshots, Copy-on-Write-Klones, Remote Replication, Raid-Z
+
+### Netzwerkanbindung
+- Anbindung über Gigabit-Ethernet
+- Erhöhung des Datendurchsatzes über Link-Aggregation (Parallele Nutzung mehrerer Netzwerk-Ports)
+
+### Redundantes Netzteil
+- Ausfallsicherheit
+
+### VM-Unterstützung
+- Weboberfläche zur Einrichtung von VMs auf NAS
+- Zusätzlicher Betrieb anderer Interfaces und Software
+
+
+## Technische Anforderungen an Rechenzentren
+
+### LWL-Verkabelung
+- Verkabelungssysteme mit Lichtwellenleiter (Singlemode/Multimode)
+- Mehrfaser-Steckverbinder MTP/MPO
+- Transceiver
+- Aktiver Netzwerkkomponenten für gegebenen Standard (Bspw.: 400 GBase-SR8)
+
+### Kupferverkabelung
+- 10-GBase-T-SSTP-Kupferkabel (CAT7/CAT6a)
+
+### KVM-Konsole
+- 19-Zoll-KVM (Keyboard Video Mouse) Konsole zur Bedienung mehrerer Server
+
+### Server-Hardware
+
+### Server-Software
+- Mögliche technische Einrichtung von VDS, VPS, Webhosting und Dedicated Server
+- Kundenspezifische Bereitstellung
+
+### USV
+- Gesamtleistung und Scheinleistung aller Server dürfen Ausgangsleistung der USV nicht überschreiten
+- Zeit und Dauer der möglichen Stromzufuhr
+- Signal für Herunterfahren der Server im Falle eines niedrigen Akkustandes
+  - Signalisierung über RS232, USB oder UTP
+ 
+### Wärmerückgewinnung
+- Flüssigkühlung zur effizienten Wärmenutzung
+  - Hohe Abflusstemperaturen zur weiteren Nutzung
