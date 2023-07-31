@@ -48,3 +48,19 @@
 #### Nachteile
 - Know-How (Einarbeitung zur Konfiguration von VMs erforderlich
 - Single Point of Failure
+
+
+### Vor- und Nachteile von SaaS
+
+#### Vorteile
+- Weltweite Zugriffsmöglichkeit via Browser
+- Keine eigene Server-IT/Hardware nötig
+- Skalierbarkeit nach Bedarf
+- Kein Wartungsaufwand
+
+#### Nachteile
+- Abhängigkeit vom Dienstleister
+- Standard nach Definition des Anbieters
+- Schnittstellen zu Drittsystemen ggf. nicht vorhanden
+- Einfacher Datenzugriff für Anbieter
+- Erforderliches Vertrauen und klare Verträge
