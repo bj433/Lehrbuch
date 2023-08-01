@@ -91,4 +91,87 @@
 - Integrierbarkeit in Threat Intelligence Services
 
 ### Zwei Firewalls
-- 
+- Frontend-/Perimeter-Firewall für Datenzugriff für DMZ
+- Backend-Firewall für Datenzugriff von DMZ ins interne Netzwerk
+- Verwendung von verschiedenen Firewalls empfohlen
+  - Ungleiche Sicherheitslücken
+ 
+### UTM-Firewalls (Unified Threat Management)
+- Gebrauchsfertige Richtlinien
+- Verwaltungs- und Reportingtools für Bereitstellung und Verwaltung
+- NGFW-Appliances für kundenspezifische Anpassungen von Sicherheitsrichtlinien/manuelle Reporting-/Managementtechniken
+- Funktionen:
+  - Anti-Virus, Anti-Spyware, Anti-Spam, Netzwerkfirewall
+  - Angriffserkennung und -überwachung
+  - Inhaltsfilter
+  - Vermeidung von Datenlecks
+  - Remote-Routing
+  - Übersetzung von Netzwerkadressen (NAT)
+  - Unterstützung für VPN
+ 
+### Paketfilter
+- Einfache Filterung von Datenpaketen anhand von Filterregeln
+- DENY oder DROP: Verwerfen unzulässiger Pakete
+- REJECT: Erkennung als unzulässig
+- FORWARD oder PERMIT: Weiterleitung zulässiger Pakete
+- ALLOW oder PASS: Durchlassen zulässiger Pakete
+
+### Proxyfilter
+- Verbindung mit Zielsystem
+- Weiterleitung von Antworten des Zielsystems an Client
+
+### Content-Filter
+- Proxyfilter zur Auswertung von Nutzdaten einer Verbindung
+- Sperrung oder Blockieren von Weiterleitungen
+
+### Intrusion Detection Systeme (IDS) und Intrusion Prevention Systeme (IPS)
+- Erkennung von Einbruchsversuchen durch Kommunikationsmuster
+- IDS erkennt Angriffe
+- IPS blockiert Angriffe
+
+### Firewall-Regelwerk
+- Umgang mit Netzwerkpaketen
+
+### Application-, Web- und Inhaltskontrolle
+- Content-. Spam-, Antiviren-Filter
+- Richtlinien-Management
+
+### E-Mail und Datenschutz
+- Datenverkehrskontrolle
+
+### Web-Protection
+- Erkennung und Beseitigung von Web-Bedrohungen
+
+### Advanced Threat Protection
+- Erkennung von Bots und komplexeren Bedrohungen
+
+### Deep Packet Inspection
+- Überwachung und Filterung von Datenpaketen zum Header und zum Dateninhalt
+- Analyse weitergehender, protokollspezifischer Informationen
+- SSL-Deep Packet:
+  - Entschlüsselung verschlüsselter Inhalte und Verbindungsdaten
+  - Neuverschlüsselung für Clients
+ 
+### Zero-Day- und KI-Schutz, Sandboxverfahren
+- Erkennung neuer Bedrohungen
+- Verwendung von Machine Learning und Sandboxing
+
+### Benutzeridentitätsmanagement
+- Personenauthentifizierung auf Anwendungen und Programmen
+- Anwendungsbeschleunigung durch Richtlinien- und Bandbreitenmanagement
+
+### Sicherheits-Gateway
+- Reihenweise geschaltete Filterkomponenten
+- Unterscheidung Paketfilter - Application Level Gateway
+- Network Address Translation durch Paketfilter für IPv4 -> ALG bei IPv6
+- Port Address Translation (PAT) und URL-Blockierung
+
+## E-Mail Sicherheit
+- Manipulationssichere E-Mail Archivierung
+  - Sicherstellung von Compliance-Vorgaben
+- Verwendung der Übertragungsprotokolle (POP3S, IMAPS, SMTPS)
+- Einrichtung von E-Mail-Security-Gateways zur Blockade von Angriffen
+- Installation auf E-Mail-Server, Hardware-Appliance, virtuelle Appliance
+- Spamfilter zur Filterung von E-Mail-Absendern (Blacklists)
+- Blacklist: Unerwünschte Absender zur Abweisung
+- Whitelist: Erwünschte Absender zur Weiterleitung
