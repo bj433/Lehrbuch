@@ -76,4 +76,13 @@
 - Installation einer leistungsstarken Antiviren-Software
 
 ### VPN (Virtual Private Network)
-- 
+- Geschützte Netzwerkverbindung
+- Datenverkehr durch virtuelle Tunnel mit Echtzeitverschlüsselung
+- IP-Adresse und Online-Identität versteckt
+- SSL-VPN, Site-to-Site-VPN, Client-to-Client-VPN
+- Kein Schutz für Daten auf Endgeräten
+
+### Social Engineering und Zero-Trust-Strategie
+- Sensibilisierung und Information von Usern zu Vertraulichkeitspflichten bei Arbeit mit PCs, Passwörtern und Software
+
+### Verschlüsselung vertraulicher Dateien und E-Mails
