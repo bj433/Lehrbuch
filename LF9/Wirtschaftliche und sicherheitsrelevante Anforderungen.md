@@ -91,4 +91,47 @@
 
 ### ROI und Amortisationsrechnung
 - Return of Investment (Anlagenrendite)
-- 
+- Verhältnis Investitionskosten zu Investitionsrückflüsse
+- Amortisationszeit = Gesamtnutzungszeit + ROI-Wert
+- Frz.: amortir: tilgen = Tilgungszeit
+  - Zeitdauer, in der Kosten für Investitionen durch Erträge gedeckt werden
+- ROI = Rückflüsse / Investitionskosten (Bspw.: 90.000 / 60.000 = 1,5)
+- Amortisationszeit = Nutzungsdauer / ROI oder Nutzungsdauer * Investitionskosten / Rückflüsse
+
+### TCO-Betrachtung
+- Bezug von Total Costs in Investitionsentscheidungen
+
+
+## Finanzierung und Leasing von Vorhaben sowie Miete von Cloud-Diensten
+
+### Entscheidung zwischen Kauf mit Finanzierung und Leasing
+- Kauf: Übergang Gut zu Eigentum
+- Leasing: Übergang Gut zu Besitz
+- Eigentümer hat mehr Rechte, keine Abhängigkeit von Vertragsbedingungen
+- Leasing hat Möglichkeit zu Wechsel auf Neugeräte
+
+### Finanzierung über ein Darlehen
+- Fälligkeits- bzw. Festdarlehen bzw. endfälliges Darlehen
+- Ratendarlehen- bzw. Tilgungs- bzw. Abzahlungsdarlehen
+- Annuitätendarlehen: Darlehen mit festen Kreditraten und gleichem Zinssatz, aufgrund der Tilgung immer größerer Tilgungsanteile
+
+### Leasing
+- Gebrauchsüberlassung eines Gebrauchsguts auf Zeit gegen Entgelt
+- Leasingnehmer trägt Eigentümerpflichten
+- Leasinggeber bezahlt Rechnungspreis für Auftragnehmer
+
+### Miete oder Cloud-Services
+- IaaS, PaaS, FaaS, SaaS
+
+
+## Projektcontrolling zum Projektabschluss
+
+### Zwischen- und Nachkalkulationen
+- Erstellung einer Kostenübersicht während und nach Projekten
+- Überschussrechnung bei Kundenprojekt: Gewinn = Erlöse - Kosten
+- Wirtschaftlichkeit = Erlöse / Kosten > 1
+
+### Soll-Ist-Vergleich
+- Zeitlich: Übersichten über Einhaltung der Zeitkalkulationen
+- Kosten, ggf. Erlöse: Führung von Kostenvergleichen
+- Ermittlung von Abweichungen
