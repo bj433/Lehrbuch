@@ -30,4 +30,50 @@
     - Ausführung von Anweisungen
 - Network-Controller als zentrales Steuerungselement im Netzwerk
   - Verwaltung und Steuerung von Routern und Switches
+- Informationsspeicherung und -verarbeitung durch Netzwerkbetriebssystem
+- Flexible Erweiterbarkeit des Netzwerks
+- Änder- und Managebarkeit
+- Keine Abhängigkeiten zu Geräteherstellern
+- Southbound-Interface zur Kommunikation zwischen Control- und Data-Plane
+- Northbound-Interface zur Automatisierung und Orchestrierung von Applikationen, Management- und Kontrollprogrammen
+
+### Bedrohungsscanner, OpenVAS und Surity Manager
+- Untersuchung von Zielsystemen nach Sicherheitslücken
+- Proaktive Asset-Erfassung durch Schwachstellen-Management
+- Kontinuierliches Monitoring
+- Eindämmung, Behebung und Verteidigung von Cyberangriffen
+
+### Sicherheits-Gateway als SaaS, Secure Access Service Edge (SASE)
+- Secure Web Gateways als Abwehr bei Cloud-Netzen
+- Erkennung und Einschränkung von DNS-Datenextraktionen und Zero-Day-Angriffen
+- Herstellung gesicherter Netzverbindungen zu Cloud-Diensten
+- Kombination von Netzwerk- und Security-as-a-Service-Funktionen
+- Möglichkeit zu verteiltem Sicherheitscontrolling, Richtlinienmanagment und Ressourcenerweiterung
+
+### Security-Information-and-Event-Management-Systems (SIEM)
+- Echtzeitanalysen von Datenströmen, Anwendungs-/Benutzer-/Serververhalten, Log-Events, bekannten Schwachstellen
+- Einsatz als IPS
+- Verwendung von Machine Learning, UEBA (User and Entity Behaviour Analytics) und SOR (Security Orchestration, Automation and Response)
+
+### Netzwerksegmentierung
+- Klassifizierung und Segmentierung des Unternehmensnetzwerks
+- Einteilung nach Vertrauenszonen und Sicherheitsrichtlinien
+- Zugriffseinschränkung
+- Verkleinerung der Angriffsfläche
+- Vereinfachte Zugriffskontrolle
+- Complianceverbesserung
+
+
+## Endpoint-/Enduser-Security
+
+### Multi-Faktor-Authentifizierung oder Single-Sign-On (SSO)
+- Einsatz sicherer Anmelde- und Berechtigungssysteme
+- Regelmäßige Identitätsüberprüfung von Usern durch Access Management
+- Einsatz biometrischer Merkmale, Token oder Smart Cards
+- Zero-Trust als Strategie
+
+### Endpoint-Protection-Suite-Pro
+- Installation einer leistungsstarken Antiviren-Software
+
+### VPN (Virtual Private Network)
 - 
