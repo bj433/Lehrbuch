@@ -20,3 +20,19 @@
 
 
 ## VLAN
+- Virtual Local Area Network
+- Festlegung logischer Netzwerke in einem LAN
+- Ports erhalten VLAN-IDs
+- Möglichkeiten:
+  - Logische Gruppierung von Netzwerkkomponenten
+  - Optimierung des Netzwerkverkehrs
+  - Erhöhung der Netzwerksicherheit
+  - Priorisierung von Netzwerkpaketen
+- Einsatz:
+  - Heimarbeitsplätze (Remote Access)
+  - Site-to-Site-Anbindungen
+  - Anbindung IoT-Geräte
+ 
+## IPsec
+- Internet Protocol Security
+- 
