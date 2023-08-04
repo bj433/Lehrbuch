@@ -18,6 +18,38 @@
 - Einrichtung nahe an Netzwerkdosen
 - Einsatz mehrerer AP's als Repeater möglich
 
+### Absicherung
+
+#### SSID
+- Name des WLAN-Netzes
+
+#### WPA3
+- Standard-Verschlüsselungsverfahren für WLAN-Netze
+- Perfect-Forward-Secrecy
+- Ständige Regeneration von Sitzungsschlüsseln
+  - Keine Ableitungen vom Master-Key
+
+#### WPA2 (veraltet)
+- Advanced Encryption Standard (AES)
+- Diverse Schwachstellen
+
+#### WPA (veraltet)
+- WiFi Protected Access
+- Nachfolger von WEP
+
+#### WEP (veraltet)
+
+#### WLAN-Schlüssel
+- Netzwerkschlüssel für WLAN
+- Vergabe durch Administrator
+
+#### WPS
+- WiFi Protected Setup
+- Vereinfachte Aufnahme neuer Geräte ins WLAN
+
+#### Mesh
+- Aufbau eines WLANs durch mehrere Access-Points
+
 
 ## VLAN
 - Virtual Local Area Network
@@ -35,4 +67,15 @@
  
 ## IPsec
 - Internet Protocol Security
+- Vertraulichkeit, Integrität, Verschlüsselung und Authentifizierung
+
+
+## Switches
+
+### Spanning Tree Protocol (STP) und Rapid Spanning Tree Protocol (RSTP)
+- Identifikation und Deaktivierung kreisender Netzwerkpakete innerhalb eines LANs
+- Entstehung durch parallele Wege bei Switches
+
+### Layer-2-Switches
+- MAC-Adresse entscheidend für Portwahl bei Paketweiterleitung
 - 
