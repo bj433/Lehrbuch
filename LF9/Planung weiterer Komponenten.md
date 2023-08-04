@@ -78,4 +78,34 @@
 
 ### Layer-2-Switches
 - MAC-Adresse entscheidend für Portwahl bei Paketweiterleitung
-- 
+
+### Layer-3-Switches
+- IP-Adresse entscheidend für Portwahl bei Paketweiterleitung
+- Ähnlicher Arbeitsaufbau wie bei Routern
+- Zuweisung von Ports an bestimmte Subnetze
+
+
+## Firewall
+- Art der Firewall:
+  - Paketfilter
+  - Inhaltsfilter
+  - Intrusion Detection/Prevention
+- Geforderte Performance
+- Möglicher virtualisierter Betrieb
+- Hersteller- und Preisvorgaben durch Kunden
+
+## Router
+- WAN-Schnittstellen (Glasfaser, LTE, VDSL)
+- Datendurchsatzrate
+- Anzahl VLANs und VPNs
+- Benötigte Netzwerk-Ports
+- Möglicher Einsatz von SD-WAN und MPLS (Multiprotocol Label Switching)
+- Zusatzfunktionen
+- Hersteller- und Preisvorgaben durch Kunden
+
+## Server
+- Prozessoren
+- Arbeitsspeicher
+- Schnittstellen und Anschlüsse
+- Festplattenarten
+- RAID-Level
