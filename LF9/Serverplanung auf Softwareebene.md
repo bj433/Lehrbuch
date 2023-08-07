@@ -45,4 +45,11 @@
 - Wettbewerblicher Dialog
 - Innovationspartnerschaft
 
-
+## Weitere Anforderungen
+- Performance-Anforderungen
+- Skalierbarkeit
+- Anwendungsmonitoring (für Kunden)
+- Systemverfügbarkeit
+- Supportzeiten und Wartungsfenster
+- Datensicherung und Wiederherstellung
+- Reporting
