@@ -17,4 +17,30 @@
 - Typische Arbeitsschritte und Arbeitsergebnisse zur kontinuierlichen Prozess- und Organisationsentwicklung
 - Bewertung der Umsetzung nach Reife- und Fähigkeitsgraden
 
-## 
+## IT-Infrastructure Library (ITIL)
+- Leitlinien zur Bewertung von IT-Dienstleistungen (IT-Infrastructure Library)
+- Bestand zur Beurteilung und Verbesserung von IT-Services
+- 34 Managementpraktiken
+  - 14 allgemein
+  - 3 technisch
+  - 17 für Service
+- ITIL 4 = aktuelles Rahmenwerk
+  - Ausrichtung auf insgesamtes Service-Management
+ 
+## COBIT
+- Control Objectives for Information and related Technology
+- Fokus auf IT-Unternehmensmanagement und IT-Governance
+
+## FitSM
+- Rahmenwerk für IT-Service-Management
+- Fokus auf Request-, Incident-, Change- und Problem-Management
+- Bevorzugung einfacher und praktikablerer Lösungen
+
+## SIAM
+- Service Integration and Management
+- Multiprovidermethode
+
+## Business Technology Standard
+- Rahmenwerk für Platform economy model und Open-Source-Software
+
+
