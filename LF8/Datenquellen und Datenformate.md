@@ -50,4 +50,31 @@
  
 #### XML (Extensible Markup Language) 
 - Dateiendung: .xml
+- Auszeichnungssprache und Datenformat
+- Darstellung hierarchisch strukturierter Daten innerhalb einer Textdatei
+- Inhalt - Textauszeichnungen (Markup)
+- Auszeichnungen in </> = Tags
+  - Paarweise
+  - Tags + Inhalt = Element
+  - Selbst definierbar
+  - Tags können Parameter haben (Namen + Wert)
+  - Ineinander geschachtelt
+ 
+#### JSON (JavaScript Object Notation
+- Dateiendung: .json
+- Datenaustausch- und Textformat
+- Schlüsselwertpaare
+- Formatierung mit geschweiften Klammern {}
+- Beliebig verschachtelbar
+- Zeichenkodierung UTF-8
+- Parser zur Verarbeitung
+
+## Datenzugriff
+
+### SOAP (Simple Object Access Protocol)
+- Netzwerkprotokoll zum Datenaustausch
+- Industriestandard des W3C (World Wide Web Consortium)
+- ACID (Atomiziät, Konsistenz, Isolation und Dauerhaftigkeit) erfüllt
+  - Gewährleistung zuverlässiger Datenbanktransaktionen
+- Datenaustausch über XML-IS (Information-Set) basierende Nachrichten
 - 
