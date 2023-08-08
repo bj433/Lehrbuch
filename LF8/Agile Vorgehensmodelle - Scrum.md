@@ -1,4 +1,4 @@
-# Agile Vorgehensmodelle
+# Agile Vorgehensmodelle - Scrum
 
 ## Leitlinien des "Agilen Manifests"
 - Ausarbeitung im Bereich der Softwareentwicklung
@@ -79,3 +79,50 @@
 - Priorisierung einzelner Aspekte nach Kundenzufriedenheit
 
 ### Planung der Sprints (Sprint Planning)
+- Arbeitszyklen zur Bearbeitung von Teilaufgaben
+- Zusammenkunft von Product Ownern und Entwicklerteam
+- Zwei Teile:
+- Teil 1:
+  - Vorstellung der Anforderung aus Product Backlog
+  - Definition von Sprint-Zielen und Meilensteinen
+  - Einteilung von Anforderungen an einzelne Sprints
+- Teil 2:
+  - Anlegen des Sprint-Backlogs
+ 
+### Erstellung eines Sprint Backlogs
+- Zerlegung von Backlog-Items in Einzel- oder Teilaufgaben
+- Festhalten im Sprint-Backlog
+- Visualisierung
+- Arbeitsplan für Entwicklerteam (Festlegung, wann welcher Task abgeschlossen sein soll -> "Definition of Done")
+
+### Durchführung des Sprints und des täglichen Daily-Scrums
+- Verrichtung der täglichen Arbeit auf Basis des Sprint-Backlogs
+- Task fertig = Fitness for Purpose:
+  - Übereinstimmung mit Abnahmekriterien
+  - Einvernehmliche Statusänderung
+- Daily Scrum:
+  - Besprechung der Änderungen des letzten Tages
+  - Ausblick auf Tagesziele
+  - Festhalten in Sprint-Burn-Down-Chart
+  - Keine Teilnahme des Scrum Masters
+ 
+### Erstellung einer Impediment List
+- Erfassung von Schwierigkeiten, logistischen Hindernissen und Kommunikationsproblemen
+- Initiation von behebenden Maßnahmen durch Scrum Master
+
+### Durchführung einer Sprint Review
+- Präsentation des bisherigen Ergebnisses am Ende eines Sprints
+- Möglichkeit für Feedback
+- Besprechung und ggf. Anpassung des Product Backlogs
+
+### Durchführung eines Retrospective-Meeting
+- Lessons Learned (gewonnene Erkenntnisse)
+- Selbst- und Arbeitsreflexion
+- Anhebung der Produktqualität durch Anhebung der Prozessqualität
+
+### Durchführung von weiteren Sprints
+
+### Projektende
+- Projektabnahme durch Project Owner
+- Project Review:
+  - Besprechung von Hindernissen und Behinderungen
