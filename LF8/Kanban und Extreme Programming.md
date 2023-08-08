@@ -80,4 +80,24 @@
 - Gute Wart- und Erweiterbarkeit des Ergebnisses
 
 #### Nachteile
-- 
+- Keine Eignung für kleine Projekte
+- Hohe Anforderung an Fachlichkeit und Qualität der Entwickler
+- Keine Einbringung der Kunden
+- Zu schnelle Entwicklung - Kein Testing
+- Gefordertes Kundenvertrauen
+
+### Vergleich Extreme Programming - Scrum
+
+#### Extreme Programming
+- Iterationen dauern 1-2 Wochen
+- Hohe Flexibilität des Kunden in der Aufgabenabarbeitung
+- Anpassbarkeit des Entwicklerteams
+- Strenge Prioritätsreihenfolge in der Abarbeitung (durch Kunden)
+- Erforderlich: testgetriebene Entwicklung, einfaches Design, Pair Programming
+
+#### Scrum
+- Iterationen dauern 2-4 Wochen
+- Keine Flexibilität bei Planung und Teams
+- Vorgabe von Priorisierung durch Product Owner
+- Selbstbestimmte Abarbeitungsreihenfolge
+- Keine vorgeschriebenen technischen Praktiken
