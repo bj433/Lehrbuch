@@ -77,4 +77,25 @@
 - ACID (Atomiziät, Konsistenz, Isolation und Dauerhaftigkeit) erfüllt
   - Gewährleistung zuverlässiger Datenbanktransaktionen
 - Datenaustausch über XML-IS (Information-Set) basierende Nachrichten
-- 
+- Verarbeitung über HTTP, SMTP, TCP, etc.
+- Einsparnis von XML-Codes durch Metasprachen
+  - Bspw.: WDSL (Web Service Description Language)
+  - Beschreibungssprache für Netzwerkdienste
+- Austausch von Nachrichten auf XML-Basis
+
+### REST (Representational State Transfer)
+- Einfache Anwendung
+- Ressourcenschonend
+- Zugriff auf Datenquellen im Web
+- Kommunikation von Maschine zu Maschine
+- Zugriff per HTML
+  - PUT, GET, POST, DELETE
+- Prinzipien (Constraints) für Service-Dienste:
+  - Client-Server-Modell
+  - Zustandslosigkeit
+  - Caching
+  - Einheitliche Schnittstelle
+  - Layered System
+  - Code-On-Demand
+ 
+
