@@ -23,7 +23,6 @@
 - Ausrichtung an reellen Strukturen
 - Abstrahierung und Beschreibung von Objekten
 - Einführung und Umsetzung verschiedener Konzepte (bspw.: Vererbung)
-- Bspw.: 
 
 ## Deklaratives Programmierparadigma
 - Beschreibung eines Problems
@@ -33,8 +32,12 @@
 - Abfolge von Funktionsaufrufen
 - Keine Wertzuweisungen
 - Erstellung von KI oder Compilern
+- Bspw.: Lisp, Haskell, F#
 
 ### Logisches Programmierparadigma
 - Nähe zu mathematischer Logik
 - Programm als Datenbasis
 - Fakten und Regeln als Informationspool bei Anfragen
+- Bspw.: Prolog
+
+
