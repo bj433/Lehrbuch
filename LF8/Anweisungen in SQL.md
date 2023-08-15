@@ -97,3 +97,19 @@ SELECT L.Name FROM Land L;
 - ALL = Prüfung nach erfüllter Bedingung für alle Ergebnisse eines Subselects
 - ANY = Prüfung nach erfüllter Bedingung für beliebiges Ergebnis eines Subselects
 - EXISTS = Prüfung ob Subselect überhaupt ein Ergebnis hat
+
+## Rechtevergabe
+
+### Anlegen eines Benutzers
+CREATE USER Benutzername
+
+IDENTIFIED BY Passwort;
+
+### Löschen eines Benutzers
+DROP USER Benutzername;
+
+### Erteilen von Rechten
+GRANT Rechteliste ON Objektname TO Benutzername [WITH GRANT OPTION];
+
+### Entziehen von Rechten
+REVOKE Rechteliste ON Objektname FROM Benutzername;
