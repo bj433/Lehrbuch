@@ -83,4 +83,20 @@
   - Product Owner
   - Datenschutzbeauftragter
  
-### 
+### Implementierung sicherheitsrelevanter Aspekte
+- Dokument: Sprint Backlog
+- Inhalt:
+  - Berücksichtigung anerkannter Richtlinien zur sicheren Softwareentwicklung
+  - Regelmäßige Tests
+  - Verwendung von Testdaten
+  - Einsatz anerkannter Verschlüsselungsverfahren
+- Verantwortlichkeit: Entwicklungsteam
+
+### Abnahme der Software
+- Dokument:
+  - Definition of Done
+  - Abnahmeprotokoll
+- Inhalt:
+  - Erfüllte Anforderungen der Informationssicherheit
+  - Ggf. Modifikation des Product Backlogs
+- Verantwortlichkeit: Product Owner
