@@ -24,3 +24,17 @@
   - Abschließende Ebene
 - Einsatz von Farben, Bildern und Symbolen
 
+#### Informationsarchitektur
+- Intuitive Informationsstruktur
+- Verwendung von Navigationskonzepten
+
+#### Interaktionsdesign
+- Erfassung von Erwartungen/Bedürfnissen von Nutzern
+
+#### Usability (Gebrauchstauglichkeit)
+- Unterstützung für Nutzer durch Software
+- Einfache Bedienung
+- Objektive Tests/subjektive Ansichten der User
+
+#### Zugänglichkeit
+- Erreichbarkeit und Aufwand der Nutzung von Software
