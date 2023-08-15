@@ -21,3 +21,11 @@
 - Eindeutige Schlüssel bilden Indizes
 - Keys führen zu Datensätzen
 - Schnelle Datenverarbeitung und hohe Skalierbarkeit
+- Eingeschränkte Abfragemöglichkeiten
+
+## Spaltenorientierte Datenbank
+- Alle Werte einer Spalte hintereinander gespeichert
+- Zusammenhang zwischen Attributwerten durch Position in Tabelle gegeben
+- Leichte Aktualisierung einzelner Spalten
+- Umständliches Lesen/Ergänzen
+- Eignung für Data-Warehouse oder Analysen
