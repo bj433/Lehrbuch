@@ -77,7 +77,9 @@ SELECT Spaltenname FROM TabellennameB;
 
 ### Beispiel
 SELECT O.Name FROM Ort O
+
 UNION
+
 SELECT L.Name FROM Land L;
 
 ### Unterabfragen
