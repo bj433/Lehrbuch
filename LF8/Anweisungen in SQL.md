@@ -87,7 +87,7 @@ SELECT L.Name FROM Land L;
 ## Unterabfragen
 - Sub-Selects
 - Einbindung von SQL-Anweisungen in andere SQL-Anweisungen
-- 2. Select in runden Klammern
+- Zweiter Select in runden Klammern
 - Vergleichsoperatoren verwendbar für einzelne Rückgabewerte
 - Mengenoperatoren verwendbar für mehrere Rückgabewerte
 - ORDER BY und UNION nicht zulässig
