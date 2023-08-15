@@ -75,4 +75,14 @@
 - Teil nicht ohne Ganzes existent
 - Kennzeichnung durch Linie mit ausgefüllter Raute an "Ganzes"-Klasse
 
+#### Multiplizität
+- Anzahl Objekte in Beziehungen zwischen zwei Klassen
+- Bspw.: 1 zu 0..*, n zu m
+
+#### Vererbung
+- Kennzeichnung durch Linie mit nicht ausgefülltem Dreieck als Pfeilspitze
+  - Pfeil von Unterklasse zu Oberklasse
+- Weitergabe von Eigenschaften von Oberklasse zu Unterklasse
+- Strichline bei Vererbung von Interface
+
 
