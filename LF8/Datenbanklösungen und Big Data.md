@@ -85,4 +85,24 @@
   - Basically Available, Soft State, Eventually Consistant
 - Verfügbarkeit vor Konsistenz
 
-### 
+### Leistung
+- Nutzung von Cloud-Servern/Hardware-Clustern
+- Hohe Leistungsstärke
+
+### Abfragesprachen
+- Keine einheitliche Abfragesprache
+
+### Populäre Datenbankmanagementsysteme
+- MongoDB
+- Apache HBase
+- Amazon DynamoDB
+- Redis
+- Couchbase
+- Cassandra
+- Elasticsearch
+
+### Einsatzgebiete
+- Datenbanklösungen:
+  - Echtzeit-Datenverarbeitung
+  - Schlecht strukturierbare Daten
+  - Große, schnell wachsende Datenmengen
