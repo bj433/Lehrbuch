@@ -23,3 +23,33 @@
 - Beschreibung des Mehrwerts
 - Auswertung riesiger Datenmengen
 
+## Relationale Datenbank
+
+### Datenmodell
+- Speicherung in separaten Tabellen
+- Zusammenführung bei Suchanfragen
+
+### Schemata
+- Festgelegte Datentypen und strukturen
+
+### Skalierung
+- Vertikale Skalierung
+- Ein Server = komplettes Datenbanksystem
+- Bedingte Steigerung der Leistungsfähigkeit möglich
+
+### Umsetzung der ACID-Regeln
+- Alle Regeln umgesetzt
+- Atomicity, Consistency, Isolation, Durability
+
+### Leistung
+- Optimierung von Abfragen, Indizes und Struktur
+
+### Abfragesprachen
+- Einsatz von SQL
+
+### Populäre Datenbankmanagementsysteme
+- MySQL
+- PostgreSQL
+- Oracle
+- MS-SQL
+
