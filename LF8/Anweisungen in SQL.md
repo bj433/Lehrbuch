@@ -68,7 +68,9 @@ L.KontinentID = K.KontinentID
 
 ### Syntax
 SELECT Spaltenname FROM TabellennameA
+
 UNION
+
 SELECT Spaltenname FROM TabellennameB;
 
 ### Erläuterung
