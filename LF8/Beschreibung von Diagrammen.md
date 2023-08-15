@@ -130,5 +130,8 @@
   - Pfeil ausgehend von Rechteck zu Folgeaktion hin
   - Pfeile ausgehend von Aktionen zu Rechteck hin
  
-
+#### Aktivität
+- Darstellung einzelner Aktionen in einem Kontrollfluss
+- Partitionierung von Aktivitäten
+- Ein- und Ausgabeparameter als Rechtecke
 
