@@ -39,6 +39,17 @@
 ## Klassendiagramme
 
 - Analyse und Entwurf von Softwaresystemen
+- Grafische Darstellung der Beziehungen zwischen Klassen und Anwendungen
+- Statische Sichtweise auf Anwendung
+
+### Notationselemente
+
+#### Klasse
+- 
+
+## Klassendiagramme
+
+- Analyse und Entwurf von Softwaresystemen
 - Grafische Beschreibung von Beziehungen zwischen Klassen einer Anwendung
 - Statisches Bild der Anwendung
 
