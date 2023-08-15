@@ -60,4 +60,19 @@
 - "- = private"
 - "# = protected"
 
+#### (gerichtete) Assoziation
+- Beziehung zwischen zwei Klassen
+- Keine Teil-Ganzes-Beziehung
+- Kennzeichnung durch Extrapfeil
+
+#### Aggregation
+- Teil-Ganzes-Beziehung
+- Einzelne Objekte auch unabhängig voneinander
+- Kennzeichnung durch Linie mit nicht ausgefüllter Raute an "Ganzes"-Klasse
+
+#### Komposition
+- Starke Teil-Ganzes-Beziehung
+- Teil nicht ohne Ganzes existent
+- Kennzeichnung durch Linie mit ausgefüllter Raute an "Ganzes"-Klasse
+
 
