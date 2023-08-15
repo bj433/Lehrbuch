@@ -24,4 +24,20 @@
   - Seitenstruktur
   - Augenmerk auf Anordnung, Größe und Platzierung der Elemente
 - Einsatz als Dokumentation eines Projekts
-- 
+
+### Mockup
+- Detaillierte Darstellung des späteren Erscheinungsbildes
+- Exakter Entwurf zur Kundenpräsentation
+- Wesentliche Merkmale:
+  - "look & feel" der Anwendung
+  - Farben
+  - Typographie
+  - Bilder
+  - Blindtexte
+  - Modell mit rudimentärer Funktionalität
+- Spätere Überführung in einen Prototypen
+
+### Prototyp
+- Funktionstüchtige Anwendung mit Ausführbarkeit
+- Machbare Tests
+  - B
