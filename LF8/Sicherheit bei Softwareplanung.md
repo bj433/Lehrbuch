@@ -59,4 +59,28 @@
 - Erstellung von Log-Dateien oder Protokollen
 - Einhaltung aktueller Datenschutzbestimmungen
 
+## Umsetzung der Informationssicherheit in Scrum
 
+### Ermittlung sicherheitsrelevanter Aspekte
+- Dokument: User Story
+- Inhalt:
+  - Analyse der Datenart und -qualität
+  - Analyse der Bedrohungslage
+  - Risikobewertung
+- Verantwortlichkeit:
+  - Product Owner
+  - Datenschutzbeauftragter
+ 
+### Planung sicherheitsrelevanter Maßnahmen
+- Dokument: Product Backlog
+- Inhalt:
+  - Datenschutzfreundliche Voreinstellungen
+  - Vorgesehene Datenverschlüsselung 
+  - Festlegung von Speicherfristen
+  - Protokollierung von Zustimmungen
+  - Rechte-/Rollenkonzept
+- Verantwortlichkeit:
+  - Product Owner
+  - Datenschutzbeauftragter
+ 
+### 
