@@ -40,4 +40,4 @@
 ### Prototyp
 - Funktionstüchtige Anwendung mit Ausführbarkeit
 - Machbare Tests
-  - B
+- Kein fertiges Projekt -> weitere Optimierungen
