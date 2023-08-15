@@ -85,4 +85,27 @@
 - Weitergabe von Eigenschaften von Oberklasse zu Unterklasse
 - Strichline bei Vererbung von Interface
 
+## Aktivitätsdiagramm
+
+- Darstellung des Systemverhaltens
+- Beschreibung von Aktionsabläufen, Prozessen und Entwicklungsdokumentationen
+
+### Notationselemente
+
+#### Startknoten/Endknoten/Ablauf-Ende
+- Startknoten = Beginn eines Ablaufs
+  - Ausgefüllter schwarzer Kreis
+- Endknoten = Ende eines Ablaufs
+  - Ausgefüllter schwarzer Kreis mit schwarzem Ring
+- Ablauf-Ende = Ende eines Zweigs
+  - Nicht ausgefüllter Kreis mit Kreuz drin
+ 
+#### Aktion
+- Verhalten für Veränderungen
+
+#### Kante
+- Angabe des Kontrollflusses zwischen Aktionen
+- Pfeil
+
+
 
