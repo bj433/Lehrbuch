@@ -38,3 +38,14 @@
 
 #### Zugänglichkeit
 - Erreichbarkeit und Aufwand der Nutzung von Software
+
+## Corporate Design
+- Entwicklung des visuellen Erscheinungsbilds eines Unternehmens
+- Positives Außenbild
+- Wiedererkennungswert und Kundenbindung
+
+## Barrierefreiheit
+- Bedienelemente über Tab-Taste
+- Skalierbarkeit von Elementen
+- Plattformunabhängigkeit
+- Grafiken mit Alternativtexten
