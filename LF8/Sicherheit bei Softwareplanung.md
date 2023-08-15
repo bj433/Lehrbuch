@@ -24,3 +24,11 @@
 ### Benutzerfreundliche Sicherheit
 - Sicherheitsmechanismen = keine Beeinträchtigung für User-Experience
 
+
+## Design- und Umsetzungshinweise
+
+### Trennung von Datenverarbeitung und -verwaltung
+- Aufteilung des Programms in verschiedene Einheiten für unterschiedliche Funktionen
+- Verwendung eines MVC-Patterns (Model-View-Controller)
+- https://www.freecodecamp.org/news/content/images/2021/04/MVC3.png
+- 
