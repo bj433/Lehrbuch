@@ -84,6 +84,16 @@ UNION
 
 SELECT L.Name FROM Land L;
 
-### Unterabfragen
+## Unterabfragen
 - Sub-Selects
 - Einbindung von SQL-Anweisungen in andere SQL-Anweisungen
+- 2. Select in runden Klammern
+- Vergleichsoperatoren verwendbar für einzelne Rückgabewerte
+- Mengenoperatoren verwendbar für mehrere Rückgabewerte
+- ORDER BY und UNION nicht zulässig
+ 
+### Mengenoperatoren
+- IN = Prüfung nach Wert innerhalb eines Subselects
+- ALL = Prüfung nach erfüllter Bedingung für alle Ergebnisse eines Subselects
+- ANY = Prüfung nach erfüllter Bedingung für beliebiges Ergebnis eines Subselects
+- EXISTS = Prüfung ob Subselect überhaupt ein Ergebnis hat
