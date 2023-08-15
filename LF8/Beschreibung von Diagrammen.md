@@ -107,5 +107,28 @@
 - Angabe des Kontrollflusses zwischen Aktionen
 - Pfeil
 
+#### Verzweigung
+- Ausführung von Aktionen abhängig von erfüllten Bedingungen
+  - Raute zwischen zwei Aktionen
+  - Pfeile ausgehend von Raute zu Aktionen hin
+ 
+#### Zusammenführung
+- Ausführung von Folgeaktion nach Abschluss Einer von Zwei Aktionen
+  - Raute zwischen drei Aktionen
+  - Pfeil ausgehend von Raute zu Folgeaktion hin
+  - Pfeile ausgehend von Aktionen zu Raute hin
+ 
+#### Aufspaltung
+- Ausführung mehrerer Folgeaktionen nach Abschluss einer Aktion
+  - Schwarzes Rechteck zwischen drei Aktionen
+  - Pfeil ausgehend von Aktion zu Rechteck hin
+  - Pfeile ausgehend von Rechteck zu zwei Folgeaktionen hin
+ 
+#### Synchronisation
+- Ausführung einer Folgeaktion nach Abschluss mehrerer Aktionen
+  - Schwarzes Rechteck zwischen drei Aktionen
+  - Pfeil ausgehend von Rechteck zu Folgeaktion hin
+  - Pfeile ausgehend von Aktionen zu Rechteck hin
+ 
 
 
