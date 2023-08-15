@@ -66,3 +66,20 @@ L.KontinentID = K.KontinentID
 
 ## Kombinieren von Abfragemengen
 
+### Syntax
+SELECT Spaltenname FROM TabellennameA
+UNION
+SELECT Spaltenname FROM TabellennameB;
+
+### Erläuterung
+- Spaltenname = Name der Spalte in Tabelle A/Tabelle B
+- TabellennameA/B = Name der Tabelle
+
+### Beispiel
+SELECT O.Name FROM Ort O
+UNION
+SELECT L.Name FROM Land L;
+
+### Unterabfragen
+- Sub-Selects
+- Einbindung von SQL-Anweisungen in andere SQL-Anweisungen
