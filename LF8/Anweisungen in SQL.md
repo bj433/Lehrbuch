@@ -30,9 +30,39 @@
 
 ### INNER JOIN
 - Angabe verknüpfter Werte aus linker und rechter Tabelle
+- Verknüpfung miteinander
 - Bspw.:
+
 SELECT ... FROM Land L INNER JOIN Kontinent K ON
 
 L.KontinentID = K.KontinentID
 
 ### LEFT JOIN
+- Angabe verknüpfter Werte aus linker und rechter Tabelle
+- Verknüpfung mit linker Tabelle
+- Bspw.:
+
+SELECT ... FROM Land L LEFT JOIN Kontinent K ON
+
+L.KontinentID = K.KontinentID
+
+### RIGHT JOIN
+- Angabe verknüpfter Werte aus linker und rechter Tabelle
+- Verknüpfung mit rechter Tabelle
+- Bspw.:
+
+SELECT ... FROM Land L RIGHT JOIN Kontinent K ON
+
+L.KontinentID = K.KontinentID
+
+### FULL JOIN
+- Angabe aller Werte aus beiden Tabellen
+- Keine Abhängigkeit von Verknüpfungen
+- Bspw.:
+
+SELECT ... FROM Land L FULL JOIN Kontinent K ON
+
+L.KontinentID = K.KontinentID
+
+## Kombinieren von Abfragemengen
+
