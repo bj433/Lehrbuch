@@ -53,3 +53,36 @@
 - Oracle
 - MS-SQL
 
+### Einsatzgebiete
+- Datenbanklösungen:
+  - ACID-Support
+  - Keine wesentlichen Strukturänderungen
+  - Unkontrollierter Wachstum der Datenmenge
+  - Leicht strukturierbare Daten
+ 
+## NoSQL-Datenbank
+
+### Datenmodell
+- Verschiedene Datenbankmodelle
+  - Dokumente
+  - Graph
+  - Key-Value
+ 
+### Schemata
+- Flexibel vereinbar
+  - Strukturiert
+  - Unstrukturiert
+  - Semi-strukturiert
+- Keine nötige Konvertierung
+
+### Skalierung
+- Horizontale Skalierung
+- Anknüpfbarkeit neuer Datenbankserver
+
+### Umsetzung der ACID-Regeln
+- Keine Unterstützung
+- Verwendung des BASE-Modells
+  - Basically Available, Soft State, Eventually Consistant
+- Verfügbarkeit vor Konsistenz
+
+### 
