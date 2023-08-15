@@ -38,4 +38,25 @@
 - Implementierung von Verschlüsselungen
 - Ggf. Anwendung von Frameworks für Übertragungsverschlüsselung
 
-### 
+### Sichere Benutzerverwaltung
+- Vollständige Berechtigungsprüfung
+- Implementierung einer sicheren Login-Funktionalität
+
+### SOAP- und REST-Schnittstellen
+- Filterroutinen in Abhängigkeit der Datenformate
+- Prüfung aller Daten anhand einer Whitelist
+
+### Unittests
+- Tests während Entwicklungseinheiten
+- Erstellung von Unittests für jede Funktion
+- Nutzung automatisierter Unittests
+
+### Verhinderung von SQL-Injections
+- Überprüfung erstellter SQL-Anweisungen
+
+### Protokollierung
+- Informationsbereitstellung bei Sicherheitszwischenfällen oder Fehlern
+- Erstellung von Log-Dateien oder Protokollen
+- Einhaltung aktueller Datenschutzbestimmungen
+
+
