@@ -33,19 +33,7 @@
 - Funktionalität muss nicht vorhanden sein
 
 #### Generalisierung/Spezialisierung
-- Beziehung zwischen allgemeinen und spezialisierten Element
-
-
-## Klassendiagramme
-
-- Analyse und Entwurf von Softwaresystemen
-- Grafische Darstellung der Beziehungen zwischen Klassen und Anwendungen
-- Statische Sichtweise auf Anwendung
-
-### Notationselemente
-
-#### Klasse
-- 
+- Beziehung zwischen allgemeinen und spezialisierten Elementen
 
 ## Klassendiagramme
 
@@ -55,4 +43,21 @@
 
 ### Notationselemente
 
-#### 
+#### Klasse
+- Darstellung durch Rechtecke
+- Name, Eigenschaften, Methoden
+  - Trennung durch horizontale Linie
+- Beschreibung von Eigenschaften durch Typ/Attribute
+- Beschreibung von Methoden durch Funktionen/Parameter
+
+#### Alternative Klassendarstellungen
+- Keine Eigenschaften und Methoden
+- Darstellung von Beziehungen zwischen Klassen
+
+#### Sichtbarkeit für Eigenschaften und Methoden
+- Beschreibung von Zugriffsmodifiern in OOP
+- "+ = public"
+- "- = private"
+- "# = protected"
+
+
