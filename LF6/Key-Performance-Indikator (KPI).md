@@ -69,3 +69,36 @@
 - Verwaltung und Vorbereitung von Leihgeräten
 - Unterstützung bei IT-Projekten und Implementierungen
 - Pflege der Knowledge-Base
+
+## KPI im Netzwerkbereich
+
+### Datendurchsatz oder Bandbreite
+- Theoretischer und tatsächlicher Durchsatz
+- Zugriff auf System- und Netzwerkinformationen mit Ereignisprotokollen
+  - Bspw.: Überwachung der Bandbreitennutzung des gesamten Netzwerks
+ 
+### TCP-Latenz
+- Zeit für Datenpaket von Ausgangspunkt zum Ziel
+- TCP-Latenz = Round-Trip-Time (Quelle -> Ziel -> Quelle)
+- Netzwerklatenz = Faktor für physische Entfernung zwischen zwei Knoten
+- Messung über Netzwerktools (Ping, Traceroute)
+
+### TCP-Verlust
+- Anzahl von gesendeten, aber nicht angekommenen Paketen (pro 1.000)
+- TCP sendet verlorene Pakete erneut
+  - Zuverlässige Übertragung mit Verzögerungen
+ 
+### SYN- und FIN-Fehler
+- SYN-Fehler = Fehler beim Verbindungsaufbau
+- FIN-Fehler = Fehler beim Herunterfahren der Verbindung
+- Three-Way-Handshake
+
+### Log-Dateien
+- Protokolldatei, Ereignisprotokolldatei
+- Alle oder bestimmte Ereignisse von Prozessen auf einem IT-System
+- Auslesung, Suche nach Problemen und Fehlern
+- Angaben:
+  - Wichtigkeit der Meldung
+  - Informationstext zur Art des Ereignisses
+  - Angesprochenes Zielsystem
+  - Quelle der Meldung
