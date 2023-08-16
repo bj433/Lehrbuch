@@ -36,3 +36,43 @@
 - Untersuchung und Diagnose
 - Lösung und Wiederherstellung
 - Ticket schließen
+
+## Service nach Support-Level
+
+### Kategorisierung
+- Unterscheidung der Anfrage nach Dienstleistungskategorien
+- Festlegung im Serviceportfolio/Servicekatalog oder als Kategorie im SLA
+  - Bspw.:
+    - IT-Systemerweiterungen
+    - Systemstörungen
+    - Cloud-Skalierung
+    - Peripherieservice
+
+### Klassifizierung
+- Zuordnung der Anfrage nach Serviceklassen
+  - Bspw.:
+    - Service Request
+    - Incident
+    - Problem
+    - Change
+   
+### Priorität (Urgency)
+- Dringlichkeit der Bearbeitung einer Anfrage
+- Abhängigkeit von Auswirkungen und Risiken
+
+### Major Incident
+- Schwerwiegende Störung oder Problem
+- Folge wären erhebliche Unterbrechungen der Business-Prozesse
+
+### Eskalierung
+- Keine erfolgreiche Bearbeitung eines Problems = Eskalierung an höheren Support-Level
+- Funktional:
+  - Weiterleitung an Mitarbeiter mit mehr Fachkenntnissen oder Rechten
+- Hierarchisch:
+  - Bezug höherer Managementstufen
+  - Informationen und Unterstützung
+ 
+### Workaround
+- Problemumgehung/provisorische Lösung
+- Keine Dauerlösung
+
