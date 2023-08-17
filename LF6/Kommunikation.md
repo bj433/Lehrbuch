@@ -72,6 +72,3 @@
 - Einfrieren (Refreezing)
 - Einwirkung von hemmenden Kräften und treibenden Kräften
 
-
-
-
