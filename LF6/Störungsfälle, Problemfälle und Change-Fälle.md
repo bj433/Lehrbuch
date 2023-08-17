@@ -119,3 +119,23 @@
 - Level-1 Change = Geringe Auswirkungen auf IT-Infrastruktur
 - Level-2 Change = Deutliche Auswirkungen auf IT-Infrastruktur
 - Level-3 Change = Signifikante Auswirkungen auf IT-Infrastruktur
+
+### IT-Change-Fälle (Überarbeitungsfälle)
+- FAQ-IT-Problemlösungen
+- Datei/Datenbank: bekannter Fehler (Known Error)
+- Servicekomponentendatei/-Datenbank
+- Workaround-Datenbank
+- Unzureichende Transparenz der Service-Management-Maßnahmen und -Probleme
+- Schlechte Steuerung der Veränderungsmaßnahmen
+- Zu wenig Berücksichtigung der IT-Wertschöpfung bei Entscheidungen
+
+#### Sonstiges
+- Fehlende Rollen/Zuständigkeiten
+- Fehlende Prozessbeschreibungen
+- Unzureichendes Wissensportfolio und -management
+- Unzureichendes Projektmanagement
+- Mangelnde Qualität der Anforderungs-/Leistungsbeschreibungen
+- Hoher Aufwand bei der Beschaffung mit geringerem Auftragsvolumen
+- Fehlende Vereinbarungen (SLA, UC, OLA)
+- IT-Serviceangebot nicht nach Kundenbedarf
+
