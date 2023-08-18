@@ -26,4 +26,36 @@
 - Steigerung der Effizienz durch Automatisierung von Routinetätigkeiten
 
 ### L-Lean (schlank)
-- 
+- Schlanke Fertigung
+- Flexibles und schlagfertiges Agieren aller Beteiligten
+- Vermeidung von belanglosen Aufgaben
+- Konsequente und kontinuierliche Verbesserung
+
+### M-Measurement (Messung)
+- Großer Einfluss von Messdaten auf Projektfortschritt
+- Dateninterpretation
+- Positive Fehlerkultur
+
+### S-Sharing (Austausch)
+- Konflikt Funktionen/Zuverlässigkeit
+- Schaffung einer gemeinschaftlichen Umgebung
+
+## DevOps-Phasen
+
+### Planen (Plan)
+- Festlegung geschäftlicher Anforderungen
+- Jira/Git zum Projektmanagement
+
+### Codieren (Code)
+- Verwendung von Versionskontrollsystemen
+
+### Erstellung (Build)
+- Verwaltung von Builds
+- Automatisierungen zum Kompilieren und Packen von Codes
+
+### Testen (Test)
+- Manuelle/automatisierte Qualitätsprüfung des Codes
+- Durchführung von Benutzerakzeptanz-, Sicherheits-, Leistungs- und Lasttests
+
+### Freigabe (Release)
+- Freigabe eines Software-Releases
