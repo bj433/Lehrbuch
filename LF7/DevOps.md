@@ -15,3 +15,15 @@
 - Überwachung der operativen Qualität
 - Feedbackschleifen
 
+## CALMS-Modell
+
+### C-Culture (Kultur)
+- Zusammenarbeit und Kundenorientierung
+- Mehrwert für Kunden
+- Kollaboration und Funktionsübergriffigkeit
+
+### A-Automation (Automatisierung)
+- Steigerung der Effizienz durch Automatisierung von Routinetätigkeiten
+
+### L-Lean (schlank)
+- 
