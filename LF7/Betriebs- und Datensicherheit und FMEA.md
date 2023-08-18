@@ -66,5 +66,9 @@
 - 9-10 = Hohe Wahrscheinlichkeit, großer Fehlerumfang
 
 #### E-Entdeckungswahrscheinlichkeit des Fehlers
-- 
+- 1 = Höchstwahrscheinlich bei nachfolgendem Arbeitsgang
+- 2-5 = Offensichtlicher Fehler
+- 6-8 = Geringe Wahrscheinlichkeit
+- 9 = Sehr geringe Wahrscheinlichkeit
+- 10 = Nahezu unwahrscheinlich
 
