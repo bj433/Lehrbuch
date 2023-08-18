@@ -41,9 +41,30 @@
 - Beschreibung der Auswirkungen von Fehlfunktionen
 - Einstufung besagter Auswirkungen in eine Risikobewertung
   - Zuweisung einer Risikoprioritätszahl
-  - RPZ = B (1-10) * A (1-10) * E (1-10)
+  - RPZ (1-1.000) = B (1-10) * A (1-10) * E (1-10)
 - Ermittlung der RPZ:
   - Bedeutung des Fehlers
   - Auftretenswahrscheinlichkeit
   - Entdeckungswahrscheinlichkeit
   - Risikoprioritätszahl
+- Optimierung ab RPZ 150
+
+### Bewertungsschema
+
+#### B-Bedeutung der Fehlerfolge
+- 1 = Maginaler Fehler, unauffällig
+- 2-3 = Unbedeutender Fehler, minimale Beeinträchtigungen
+- 4-6 = Mittelschwerer Fehler, mögliche Unzufriedenheit, feststellbar
+- 7-8 = Schwerer Fehler, Verärgerung auf Kundenseite, keine beeinträchtigten Sicherheitsaspekte oder Gesetze
+- 9-10 = Schwerwiegender Fehler, Sicherheitsaspekte oder Gesetze betroffen
+
+#### A-Auftretenswahrscheinlichkeit des Fehlers
+- 1 = Nahezu unwahrscheinlich
+- 2-3 = Sehr geringe Wahrscheinlichkeit
+- 4-6 = Geringe Wahrscheinlichkeit, frühere geringe Fehlerquote
+- 7-8 = Mäßige Wahrscheinlichkeit, früher häufiger Schwierigkeiten
+- 9-10 = Hohe Wahrscheinlichkeit, großer Fehlerumfang
+
+#### E-Entdeckungswahrscheinlichkeit des Fehlers
+- 
+
