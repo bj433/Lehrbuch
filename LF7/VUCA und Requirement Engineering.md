@@ -73,3 +73,17 @@
 - Festlegung von Rahmenbedingungen
   - Definition der Systemumgebung:
     - Grenze, relevant und irrelevant
+
+## Stakeholder
+
+### Endkunden
+
+### Mitarbeiter
+- Betroffene eines Produkts
+
+## Akzeptanzkriterien
+- Fokus auf Erwartungen des Anwenders
+- Verständnis aller Beteiligten
+- Definition aller Aufgaben zur Erfüllung der Use Cases
+- Kommunikation zwischen Beteiligten
+
