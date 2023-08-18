@@ -59,3 +59,24 @@
 
 ### Freigabe (Release)
 - Freigabe eines Software-Releases
+
+### Bereitstellung (Deploy)
+- Übertragung von Software in Produktion
+- Automatisierte Bereitstellungsmethoden bei Codeänderungen
+
+### Betrieb (Operate)
+- Permanentes Softwaremanagement
+- Laufender Betrieb
+
+### Überwachen (Monitor)
+- Monitoring der Software
+
+## DevOps-Praktiken
+
+### Kontinuierliche Integration (Continuous Integration - CI)
+- Einsatz von Konfigurationsmanagement-Tools und Testing-Tools
+- Schnelle Rückmeldung bei Codeproblemen
+
+### Kontinuierliche Bereitstellung (Continuous Delivery - CD)
+- Automatisierte Bereitstellung von Codeänderungen
+- Freigabe durch Mitarbeiter
