@@ -15,3 +15,35 @@
     - Aktualisierung von Betriebs- und Sicherheitssystemen
     - Authentifizierung der Benutzer
    
+## FMEA (Failure Mode and Effects Analysis
+
+### Prozessablauf
+- Vorbereitung der FMEA
+- Bildung eines FMEA-Teams
+- Strukturanalyse
+- Funktionanalyse
+- Fehleranalyse
+- Risikobewertung
+- Optimierung
+
+### FMEA-Teams
+- Verschiedene Unternehmenbereiche
+- Erforderliche Unterlagen:
+  - Lasten-/Pflichtenheft
+  - Technische Zeichnungen
+  - Versuchsberichte
+  - Qualitätsvorschriften
+  - Fehlerlisten und Reklamationsstatistiken vergleichbarer Produkte
+  - Gesetzestexte, Verordnungen, Sicherheitsvorschriften
+  - Montage-/Prüfpläne
+
+### Risikobewertung
+- Beschreibung der Auswirkungen von Fehlfunktionen
+- Einstufung besagter Auswirkungen in eine Risikobewertung
+  - Zuweisung einer Risikoprioritätszahl
+  - RPZ = B (1-10) * A (1-10) * E (1-10)
+- Ermittlung der RPZ:
+  - Bedeutung des Fehlers
+  - Auftretenswahrscheinlichkeit
+  - Entdeckungswahrscheinlichkeit
+  - Risikoprioritätszahl
