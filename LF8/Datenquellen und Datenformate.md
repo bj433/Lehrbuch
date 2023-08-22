@@ -60,7 +60,7 @@
   - Tags können Parameter haben (Namen + Wert)
   - Ineinander geschachtelt
  
-#### JSON (JavaScript Object Notation
+#### JSON (JavaScript Object Notation)
 - Dateiendung: .json
 - Datenaustausch- und Textformat
 - Schlüsselwertpaare
