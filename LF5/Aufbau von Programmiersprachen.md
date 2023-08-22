@@ -54,3 +54,38 @@
 - Keine direkte Lauffähigkeit
 - Bspw.: mov ds, ax, mov ax, 09h int 21h
 
+#### 3. Generation
+- Höhere prozedurale Sprache
+- Nähe zu menschlicher Sprache
+- Unabhängigkeit von Computersystemen
+- Bspw.:
+
+  z1 = 1,5
+  
+  z2 = 6,3
+
+  summe = float (z1) + float (z2)
+
+  print (summe)
+
+#### 4. Generation
+- Sprachen für Datenbanken
+- Einsatz für DB-Abfragen, Tabellenkalkulationen
+- Bspw.: SELECT * FROM Artikel
+
+#### 5. Generation
+- Sprachen der künstlichen Intelligenz
+- Nachahmung menschlichen Denkens
+- Bspw.:
+  f(x) (/
+    (+ (* x x ) 3)
+    (- a x)))
+
+### Programmierparadigmen
+- Grundlegende Konzept einer Programmiersprache
+- Grundauffassungen, Methoden und Prinzipien
+- Imperative maschinennahe Sprachen: Bspw.: Assembler
+- Höhere imperative Sprachen: Bspw.: C, Fortran, COBOL, Pascal
+- Objektorientierte Sprachen: Bspw.: C#, Java, Smalltalk
+- Deklarative logische Sprachen: Bspw.: Prolog
+- Deklarative funktionale Sprachen: Bspw. Lisp, Haskell
