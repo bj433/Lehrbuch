@@ -26,7 +26,7 @@
 - Control Plane und Data Plane
   - Control Plane:
     - Vergabe von Anweisungen
-  - Date Plane:
+  - Data Plane:
     - Ausführung von Anweisungen
 - Network-Controller als zentrales Steuerungselement im Netzwerk
   - Verwaltung und Steuerung von Routern und Switches
