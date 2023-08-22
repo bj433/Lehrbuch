@@ -52,7 +52,7 @@
 ### Perimetersicherheit
 - Sicherheitsgrenze/-bereich zw. öffentlichen Netz und Privatnetz oder internem Unternehmensnetz
 - Realisierung durch Perimeter-Firewalls und VPNs
-  - 1. Verteidigungslinie gegen Viren etc.
+  - Erste Verteidigungslinie gegen Viren etc.
 - Einrichtung weiterer Sicherheitstechnologien in folgenden Sicherheitsleveln
 
 ### DMZ (Demilitarized Zone = Entmilitarisierte Zone)
