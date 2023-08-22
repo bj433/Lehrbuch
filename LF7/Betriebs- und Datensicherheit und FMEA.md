@@ -15,7 +15,7 @@
     - Aktualisierung von Betriebs- und Sicherheitssystemen
     - Authentifizierung der Benutzer
    
-## FMEA (Failure Mode and Effects Analysis
+## FMEA (Failure Mode and Effects Analysis)
 
 ### Prozessablauf
 - Vorbereitung der FMEA
