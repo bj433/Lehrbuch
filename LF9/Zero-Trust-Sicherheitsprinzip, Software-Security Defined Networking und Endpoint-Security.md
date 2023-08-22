@@ -37,7 +37,7 @@
 - Southbound-Interface zur Kommunikation zwischen Control- und Data-Plane
 - Northbound-Interface zur Automatisierung und Orchestrierung von Applikationen, Management- und Kontrollprogrammen
 
-### Bedrohungsscanner, OpenVAS und Surity Manager
+### Bedrohungsscanner, OpenVAS und Security Manager
 - Untersuchung von Zielsystemen nach Sicherheitslücken
 - Proaktive Asset-Erfassung durch Schwachstellen-Management
 - Kontinuierliches Monitoring
