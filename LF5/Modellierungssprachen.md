@@ -49,3 +49,24 @@
 - Wiederholung (Kopfgesteuerte Schleife): Wiederhole solange Bedingung ...
 - Wiederholung (Fußgesteuerte Schleife): Wiederhole ... solange Bedingung
 - Wiederholung (Zählschleife): Von Anfangswert bis Endwert ... 
+
+### UML-Diagrammarten
+
+#### Verhaltensdiagramme
+- Anwendungsfalldiagramm
+- Sequenzdiagramm
+- Zustandsdiagramm
+- Zeitverlaufsdiagramm
+- Aktivitätsdiagramm
+- Kommunikationsdiagramm
+- Interaktionsübersichtsdiagramm
+
+#### Strukturdiagramme
+- Klassendiagramm
+- Objektdiagramm
+- Komponentendiagramm
+- Verteilungsdiagramm
+- Paketdiagramm
+- Profildiagramm
+- Kompositionsstrukturdiagramm
+
