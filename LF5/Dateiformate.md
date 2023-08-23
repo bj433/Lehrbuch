@@ -61,4 +61,42 @@
 
 ### .txt
 - Unformatierte Speicherung verschiedener Zeichensätze
-- 
+
+### .rtf
+- Rich Text Format
+- Verfügbarkeit verschiedener Zeichenformatierungen
+  - Fett, Schriftwart, Unterstreichung
+ 
+### .pdf
+- Portable Document Format
+- Plattformunabhängig
+
+### .doc/docx
+- Standard-Dateiformat von Textdateien
+
+## Grafikformate
+- Speicherung von Grafiken, Bildern und Fotos als digitale Daten
+- Nicht universell einsetzbar
+- Unterscheidung zwischen pixel- und vektororientiert
+
+### .bmp
+- BITMAP von Microsoft
+- Schwache Komprimierung
+
+### .gif
+- Graphics Interchange Format
+- Verlustfreie Komprimierung und Verbreitung
+- Animationen und Transparenzen
+
+### .jpg/jpeg
+- Joint Photographic Experts Group
+- Norm für Komprimierung von Bildern
+- Verlustbehaftet, kleine Datenmengen
+
+### .psd
+- Grafikformat für Photoshop-Dateien
+- Verlustfreie Speicherung von Ebenen, Kanälen und Vektoren
+
+### .tif/.tiff
+- Tagged Image File Format
+- Unterstützung des CMYK-Farbraums
