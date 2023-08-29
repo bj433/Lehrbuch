@@ -20,4 +20,5 @@
   - Input-FIFO (First In - First Out)
 - Zugriffssteuerung zwischen Pufferspeichen und Anschlüssen
   - Vermeidung von Datenkollisionen
+- Switching Fabric = Weiterleitung von empfangenen Daten an entsprechende Ausgangsports
 - 
