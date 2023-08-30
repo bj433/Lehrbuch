@@ -22,7 +22,7 @@
   - IP-Adresse für jeden Knoten im Netzwerk
 - **IPv6-Adresse** = OSI-Layer 3
   - 128 Bit Achtfache Hexadezimalschreibweise mit Doppelpunkten zwischen Wörtern
-  - Bspw.: 2001:0123:5678:9ABC:DEF0:1234:5678:9ABC
+  - Bspw.: 2001:0123:5678:9ABC:DEF0: 1234:5678:9ABC
   - Eindeutige IPv6-Adresse für jeden Knoten im Netzwerk
 - **Ports** = OSI-Layer 4
   - 16 Bit Dezimalschreibweise
