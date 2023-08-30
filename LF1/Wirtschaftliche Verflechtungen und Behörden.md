@@ -39,4 +39,7 @@
   - Wahrung/Förderung gemeinsamer Interessen
  
 ### Franchise
-- 
+- Überlassung eines Geschäftskonzepts an Franchisenehmer
+- Angebot von Leistungen gegen Entgelt, Produktmarke und Marketing
+
+
