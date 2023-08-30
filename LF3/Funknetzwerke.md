@@ -16,13 +16,13 @@
 
 ### Normen
 
-- 802.11 = 5 GHz-Band, bis 11 Mbit/s
+- 802.11/WiFi-1 = 5 GHz-Band, bis 11 Mbit/s
 - 802.11a = 5 GHz-Band, bis 54 Mbit/s
-- 802.11b = 2,4 GHz-Band, bis 11 Mbit/s
-- 802.11g = 2,4 GHz-Band, bis 54 Mbit/s
+- 802.11b/WiFi-2 = 2,4 GHz-Band, bis 11 Mbit/s
+- 802.11g/WiFi-3 = 2,4 GHz-Band, bis 54 Mbit/s
 - 802.11h = 5 GHz-Band, bis 54 Mbit/s, Erweiterung des 802.11a-Standards für Europa mit erhöhter Sendeleistung
-- 802.11n = 2,4 GHz- und 5 GHz-Band, bis 150 Mbit/s (Standard)
-- 802.11ac = 2,4 GHz- und 5 GHz-Band, bis 867 Mbit/s, theoretisch bis 6936 Mbit/s
+- 802.11n/WiFi-4 = 2,4 GHz- und 5 GHz-Band, bis 150 Mbit/s (Standard)
+- 802.11ac/WiFi-5 = 2,4 GHz- und 5 GHz-Band, bis 867 Mbit/s, theoretisch bis 6936 Mbit/s
 - 802.11ad = 60 GHz-Band, "Gigabit-WLAN", bis 6930 Mbit/s
 
 ### Wireless PAN, WPAN
