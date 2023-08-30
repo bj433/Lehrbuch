@@ -48,8 +48,4 @@
 - VPN
   - Tunnel-Endpunkte für sicheren Zugriff
  
-### Frequenzbereiche
-- 802.11/WiFi 1
-  - Sendefrequenz: 5 GHz
-  - Max. Datendurchsatz: 2 MBit/s
-- 
+
