@@ -123,3 +123,34 @@
 ### Strategische/Operative Ziele
 - Strategisch = Langfristig
 - Operativ = Mittel- bzw. kurzfristig
+
+### Interessen der Stakeholder
+- **Mitarbeiter**:
+  - Hohes Einkommen
+  - Arbeitsplatzsicherheit
+  - Guter Arbeitsplatz
+- **Kapitalgeber**:
+  - Hohe Rendite
+  - Kapitalsicherheit
+  - Sonderausschüttungen
+  - Tilgungen
+- **Lieferanten**:
+  - Zahlungsfähigkeit
+  - Hoher Umsatz
+  - Kundentreue
+  - Vertrauen
+- **Kunden**:
+  - Niedriger Preis
+  - Guter und persönlicher Service
+  - Hohe Qualität
+  - Hoher Nutzen
+  - Schnelle und gute Mängelregulierung
+  - Bevorzugte Bedienung
+- **Staat**:
+  - Hohe Steuereinnahmen
+  - Viele Arbeitsplätze
+  - Großes Ansehen (Image)
+- **Mitbewerber (Konkurrenz)**:
+- Fairer Wettbewerb
+- Kooperation
+- Innovation
