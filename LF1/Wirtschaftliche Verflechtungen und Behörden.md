@@ -42,4 +42,23 @@
 - Überlassung eines Geschäftskonzepts an Franchisenehmer
 - Angebot von Leistungen gegen Entgelt, Produktmarke und Marketing
 
+### Kartell- oder Wettbewerbsrecht
+- Prüfung und Erlaubnis von Zusammenschlüssen durch das Bundeskartellamt
+- Keine Entstehung eines marktbeherrschenden Unternehmens
 
+## Zusammenarbeit mit Behörden und Organisationen
+
+### Compliance
+- Umschreibung für Regeltreue von Unternehmen
+
+### Gewerbe-/Ordnungsämter
+- Gewerbean- und ummeldungen
+- Einhaltung der öffentlichen Ordnung
+
+### Gewerbeaufsichtsbehörden
+- Einhaltung von Arbeits-, Umwelt- und Verbraucherschutz
+- Überwachung und Erteilung von Genehmigungen bestimmter Vorschriften
+- "Amt für Arbeitsschutz", "Staatliches Umweltamt"
+
+### Berufsgenossenschaft
+- 
