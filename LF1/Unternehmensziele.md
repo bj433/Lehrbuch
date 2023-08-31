@@ -54,7 +54,7 @@
 
 #### Besondere Beachtung > Qualität
 - Gesetze/Normen
-- TQM/KVP
+- TQM (Total Quality Management)/KVP (Kontinuierlicher Verbesserungsprozess)
 - Qualitätsmanagement
 - Zertifizierung
 - Handbuch
@@ -154,3 +154,64 @@
 - Fairer Wettbewerb
 - Kooperation
 - Innovation
+
+### Zielkonflikte
+- Unterschiedliche/Konkurrierende Zielvorstellungen
+
+### Neutrale/Komplementäre Ziele
+- Ergänzung/Verstärkung mehrerer Ziele miteinander
+  - Höhere Energieeffizienz
+  - Kosteneinsparung
+  - Kundenzufriedenheit
+  - Umsatz
+  - Produktbekanntheit
+ 
+### Konkurrierende Ziele
+- Behinderung mehrerer Ziele miteinander
+  - Bspw.: Mehr Innovationen =/= Kostensenkung
+ 
+### Priorisierung von Zielen
+- Höhere Priorität bei Zielen mit größerem Wirkungsgrad für das Gesamtziel
+
+## Wirtschaftliche/Ökonomische Ziele
+
+### Hoher Absatz
+- Verkaufte Stückzahlen
+- Dienstleistung: Anzahl beim Kunden verkaufter und berechneter Arbeitsstunden
+
+### Hoher Umsatz (netto)
+- Nettoumsatz = Umsatz ohne Umsatzsteuer
+- Umsatz = Stück * Preis
+  - Dienstleistung: Anzahl berechneter Stunden * Stundensatz
+ 
+### Wertschöpfung
+- Wertsteigerung bei Leistungserbringung
+- Differenz erstellter Leistung - Wert eingesetzter Vorleistung
+- Bereitstellung von Löhnen, Gehältern, Steuern, Bankzinsen und Gewinne
+
+### Gewinn
+- Erträge - Aufwendungen
+- Eigenkapitalrentabilität (%) = (Gewinn * 100) : EK
+
+### Wachstum, Marktführerschaft
+- Wachstum im Absatz/Umsatz
+- Bessere Beschaffungskonditionen
+- Vorteile einer Marktführerschaft
+
+### Wirtschaftlichkeit
+- Kennzahl für Effizienz: Erträge/Aufwendungen, Erlöse/Kosten
+
+### Produktivität
+- Kennzahl für das Verhältnis von Output zu Input
+  - Output/Input, Ausbringungsmenge/Einsatzmenge
+
+### Rentabilität, Rendite
+- Erfolgsbetrachtung einer Anlage/Investition
+- Rendite: Verzinzung des eingesetzten Kapitals in %
+
+### Risikoabsicherung
+- Minimierung großer Unternehmensrisiken
+  - Vermeidung von Insolvenz/totalem Kapitalverlust
+ 
+### Liquidität
+- Zahlungsfähigkeit
