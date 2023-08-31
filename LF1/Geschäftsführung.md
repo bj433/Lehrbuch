@@ -112,3 +112,12 @@
   - Überforderung von Mitarbeitern
  
 ### Matrixorganisation
+- Weiterentwicklung des Mehrliniensystems
+- Jede Stelle: Zwei Instanzen
+- **Stärken**:
+  - Ergebnisorientierung durch je zwei Kernkompetenzen
+  - Förderung von Teamwork
+  - Produkt- und Geschäftsprozessorientierung
+- **Schwächen**:
+  - Streitigkeiten in Zuständigkeiten und Mitarbeitereinsatz
+  - Keine Gleichverteilung von Aufgaben
