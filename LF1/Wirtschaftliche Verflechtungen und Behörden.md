@@ -83,3 +83,6 @@
 ### Wirtschaftsverbände
 - Unterstützung durch Arbeitgeberorganisationen
   - Arbeitgeberverbände, Kammern der IHK und Wirtschaftsverbände
+
+### Gewerkschaften
+- Interessenvertretung von Betriebsräten und Mitarbeitern von Unternehmen
