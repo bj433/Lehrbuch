@@ -31,7 +31,8 @@
 - Risikovorsorge
 - Innovation
 
-#### Besondere Beachtung > Wirtschaft
+#### Besondere Beachtung 
+> Wirtschaft
 - Gesetze
 - Stakeholder
 - Wettbewerbsrecht
@@ -52,7 +53,8 @@
 - Dienstleistung
 - Nutzung
 
-#### Besondere Beachtung > Qualität
+#### Besondere Beachtung 
+> Qualität
 - Gesetze/Normen
 - TQM (Total Quality Management)/KVP (Kontinuierlicher Verbesserungsprozess)
 - Qualitätsmanagement
@@ -69,7 +71,8 @@
 - IT-Sicherheit
 - Datenschutz
 
-#### Besondere Beachtung > Sicherheit
+#### Besondere Beachtung 
+> Sicherheit
 - Gesetze/Normen
 - Stufen/Kategorien
 - Sicherheitsmanagement
@@ -86,7 +89,8 @@
 - Ressourcensparsamkeit
 - Recycling/Renaturierung
 
-### Besondere Beachtung > Nachhaltigkeit
+### Besondere Beachtung 
+> Nachhaltigkeit
 - Gesetze/Normen
 - Prüfinstitute
 - Verbände
@@ -106,11 +110,16 @@
 - Oberste ausformulierte Zielvorstellungen
 
 ### Zielformulierung SMART
-- S = Spezifisch: > Ziele sind eindeutig und präzise, nicht vage zu formulieren.
-- M = Messbar: > Ziele müssen messbar sein.
-- A = Ausführbar/Attraktiv: > Ziele müssen akzeptiert sein.
-- R = Realistisch: > Ziele müssen möglich sein.
-- T = Terminierbar: > Ziele müssen klare Terminvorgaben gesetzt sein.
+- S = Spezifisch:
+  - > Ziele sind eindeutig und präzise, nicht vage zu formulieren.
+- M = Messbar:
+  - > Ziele müssen messbar sein.
+- A = Ausführbar/Attraktiv:
+  - > Ziele müssen akzeptiert sein.
+- R = Realistisch:
+  - > Ziele müssen möglich sein.
+- T = Terminierbar:
+  - > Ziele müssen klare Terminvorgaben gesetzt sein.
 
 ### Sach- bzw. Leistungsziele
 - Konkretes Handeln eines Betriebs bei Leistungserstellung
