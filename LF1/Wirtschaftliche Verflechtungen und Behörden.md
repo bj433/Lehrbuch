@@ -61,4 +61,25 @@
 - "Amt für Arbeitsschutz", "Staatliches Umweltamt"
 
 ### Berufsgenossenschaft
-- 
+- Träger der gesetzlichen Unfallversicherung für Unternehmen der deutschen Privatwirtschaft
+- 100% Finanzierung durch Unternehmensbeiträge
+
+### Finanzbehörden
+- Unterste Ebene der Finanzverwaltung
+- Festsetzung und Verwaltung von Steuern
+  - Nach eingereichten Unterlagen und Prüfung
+- Betriebsstättenfinanzamt: Bearbeitung der Lohnsteuererklärung
+- Gemeinde: Gewerbesteuer
+
+### Sozialversicherungsträger
+- Entrichtung von Beiträgen und Erfüllung von Auflagen
+
+### Wettbewerbsbehörde
+- Regulierung des Wettbewerbs zwischen Marktteilnehmern
+  - Gewährleistung des freien/fairen Leistungswettbewerbs
+- Wettbewerbsrecht: Gesetz gegen den unlauteren Wettbewerb (UWG)
+- Kartellrecht: Gesetz gegen Wettbewerbsbeschränkungen (GWB)
+
+### Wirtschaftsverbände
+- Unterstützung durch Arbeitgeberorganisationen
+  - Arbeitgeberverbände, Kammern der IHK und Wirtschaftsverbände
