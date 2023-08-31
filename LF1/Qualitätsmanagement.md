@@ -67,10 +67,25 @@
   - Verbesserungsvorschläge für Betriebsklima
 - Zeitlich:
   - Sprunghaft, spontan
-- Objekte > der Innovation :
+- Objekte der Innovation:
   - Technologie
   - Produkt
   - Prozess
   - Dienstleistung
   - Organisation
   - Geschäftsmodell
+- Grundlage:
+  - Betriebliches Vorschlagswesen
+  - Problemlösungs-/Innovationsmanagement
+- Beteiligte:
+  - Spezialisten
+  - Innovatoren/ausgewählte Mitarbeiter
+- Vorteile:
+  - Begrenzte Umsetzung von Methoden und Maßnahmen
+  - Motivationsförderung
+  - Belohnung für Ideen von Mitarbeitern
+- Nachteile:
+  - Keine Belohnung -> Keine Motivation
+  - Beachtung von Widersprüchen
+    - > Mitarbeiter wollen Kreativität, mögen sie zugleich aber auch nicht.
+    - > Kunden vollen Innovationen, aber keine Überraschungen.
