@@ -111,3 +111,15 @@
 - A = Ausführbar/Attraktiv: > Ziele müssen akzeptiert sein.
 - R = Realistisch: > Ziele müssen möglich sein.
 - T = Terminierbar: > Ziele müssen klare Terminvorgaben gesetzt sein.
+
+### Sach- bzw. Leistungsziele
+- Konkretes Handeln eines Betriebs bei Leistungserstellung
+- Art, Menge, Qualität, Ort und Zeit der produzierten Güter/Dienstleistung
+
+### Formalziele
+- Allgemeine Vorgabe des Erfolgs unternehmerischen Handelns
+  - Bspw.: Steigerung von Umsatz, Absatz, Marktanteil, etc.
+ 
+### Strategische/Operative Ziele
+- Strategisch = Langfristig
+- Operativ = Mittel- bzw. kurzfristig
