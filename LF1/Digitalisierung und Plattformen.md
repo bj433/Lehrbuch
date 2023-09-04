@@ -59,3 +59,16 @@
 ### Workflows
 - Automatisierte Arbeitsabläufe
 - Verwendung eines Workflowmanagementsystems
+
+## Integrierte Unternehmenssoftware für Managementaufgaben
+- **E-P**: E-Procurement (Elektronische Beschaffung)
+  - Einkauf und Beschaffung von Gütern über Internet und Beschaffungsplattformen
+- **SRM**: Supplier-Relationship-Management
+  - Lieferantenbeziehungsmanagement
+- **SCM**: Supply-Chain-Management
+  - Verwaltung integrierter Logistikketten
+    - Material- und Informationsflüsse
+  - Rohstoffgewinnung - Veredelungsstufen - Endverbraucher
+- **PPS**: Unterstützung der Produktionsplanung und -steuerung
+- **CRM**: Customer-Relationship-Management
+  - 
