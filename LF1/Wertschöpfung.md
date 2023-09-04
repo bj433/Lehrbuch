@@ -40,3 +40,24 @@
 - Immobilien
 - Materielle und immaterielle Mobilien (bspw. Fahrzeuge, Rechte, Zinszertifikate, etc.)
 
+### Dienstleistungen
+- Beratung, Entwicklung
+- Lieferung und Logistik
+- IT-Leistungen
+  - Beratung
+  - Wartung, Reparatur, Pflege
+  - Providing/Bereitstellung von IT-Leistungen
+- Bürodienstleistungen
+- Vermittlungen
+- Handel
+- Sonstige Services
+
+### Kombinationen (bspw. Handel und Dienstleistung
+
+### Neue Geschäftsmodelle
+- Fokus auf Kunde, neue Kundenbedürfnisse
+- Verändertes Ausgabeverhalten
+- Möglichkeiten durch Digitalisierung
+  - Bessere Kundenkommunikation
+  - Niedrige Kosten durch schnellere Reaktion auf Kundenwünsche
+ 
