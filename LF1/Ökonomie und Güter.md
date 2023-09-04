@@ -50,3 +50,27 @@
   - Bspw.:
     - Lebensmittel zu PC
     - Blumen zu Zigaretten
+- Knappheit
+  - Freie Güter
+    - Bspw.:
+      - Atemluft
+      - Naturerlebnisse
+      - Sonnenschein
+  - Wirtschaftliche Güter
+    - Bspw.:
+      - Sauerstoff
+      - Musik-Dienst
+      - Sonnenbank
+      - Buch
+- Ausschließbarkeit
+  - Private Güter
+    - Bspw.:
+      - Kinovorstellung
+      - Computer
+      - Pauschalreise
+  - Öffentliche Güter
+    - Bspw.:
+      - Stadtfest
+      - Parkanlage
+      - Leuchtturm
+      - Ratssitzung
