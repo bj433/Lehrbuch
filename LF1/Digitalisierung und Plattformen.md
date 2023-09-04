@@ -71,4 +71,23 @@
   - Rohstoffgewinnung - Veredelungsstufen - Endverbraucher
 - **PPS**: Unterstützung der Produktionsplanung und -steuerung
 - **CRM**: Customer-Relationship-Management
-  - 
+  - Systematische Gestaltung von Kundenbeziehungsprozessen
+- **SMM**: Social-Media-Marketing
+  - Kommunikation mit Kunden über Social Media
+  - Steigerung von Kundenbindung und Absatz
+  - Ergänzung zu Werbung
+- **ERP**: Enterprise-Ressource-Planning
+  - Verwaltung von Unternehmensressourcen
+  - Bspw.:
+    - Lagerhaltung
+    - Auftragsbearbeitung
+    - Gehaltsabrechnung
+    - Rechnungswesen
+- **DMS**: Dokumentenmanagement
+  - Datenbankgestützte Verwaltung elektronischer Dokumente
+- **EIM**: Information-Management
+  - Verwaltung und Organisation von Informationen im Unternehmen
+  - Bspw.: Big-Data, Analysen
+- **BPM**: Business-Process-Management
+  - Steuerung und Optimierung von Geschäftsprozessen
+- **BI**: 
