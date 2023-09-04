@@ -90,4 +90,7 @@
   - Bspw.: Big-Data, Analysen
 - **BPM**: Business-Process-Management
   - Steuerung und Optimierung von Geschäftsprozessen
-- **BI**: 
+- **BI**: Business-Intelligence-Software
+  - Erstellung von Unternehmensreports zur Weiterleitung an Entscheidungsträger
+- **CPM**: Kollaboratives Projektmanagement
+  - Planung, Koordination, Steuerung und Kontrolle komplexer Projekte
