@@ -1,27 +1,27 @@
 # Wertschöpfung
 
-## Wertschöpfungsketten
+## Wertschöpfungsketten und Digitalisierung
 
 ### Industriebetriebe
-- Beschaffung
-- Herstellung
-- Marketing
-- Verkauf
-- Service
+- Beschaffung (E-Procurement)
+- Herstellung (Smart Factory, IoT)
+- Marketing (Social Media Marketing)
+- Verkauf (I-Shop, Social Commerce)
+- Service (Social Service)
 
 ### Handelsbetriebe
-- Beschaffung
-- Lagerung
-- Marketing
-- Verkauf
-- Service
+- Beschaffung (E-Procurement)
+- Lagerung (E-Logistics)
+- Marketing (Social Media Marketing)
+- Verkauf (I-Shop, Social Commerce)
+- Service (Social Service)
 
 ### Dienstleistungsbetriebe
-- Marketing
-- Verkauf
-- Beschaffung
-- Dienstleistung
-- Service
+- Marketing (Social Media Marketing)
+- Verkauf (Social-Commerce)
+- Beschaffung (E-Procurement)
+- Dienstleistung (E-Services)
+- Service (Social Service)
 
 ## Leistungen und Wertschöpfung nach Geschäftstätigkeitsbereichen (Branchen)
 
