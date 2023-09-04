@@ -73,3 +73,42 @@
 - Viele Anbieter, viele Nachfrager
 - Marktpreis durch Angebot und Nachfrage
 - Konkurrenzverhalten
+
+## Marktsegmentierung nach Zielgruppen
+
+### Begriff der Marktsegmentierung
+- Aufteilung des Gesamtmarktes in Teilmärkte
+  - Abstimmung des Marketingmixes auf Kundengruppen
+  - Reduktion von Streuverlusten
+- Streukreis:
+  - > Wer sind meine Kunden?
+- Streugebiet:
+  - > Wo befinden sich meine Kunden?
+
+### Kriterien der Marktsegmentierung
+- Geografisch
+- Demografisch
+  - Alter
+  - Geschlecht
+  - Familienstand
+  - Haushaltsgröße
+- Sozioökonomisch
+  - Einkommen
+  - Beruf
+- Verhaltensbezogene Merkmale
+  - Kundentypen
+  - Wertvorstellungen
+  - Vorlieben
+ 
+## Quantitative Marktanalyse
+
+### Ziele
+- Erfassung der mengen- und wertmäßigen Größen des relevanten Martkes
+- Prognose der zukünftigen Marktentwicklung
+
+### Marktgrößen
+- Marktpotential: Maximal mögliche Absatzmenge durch alle Marktteilnehmer
+- Marktvolumen: Tatsächlich erzielte Absatzmenge von allen Marktteilnehmern
+- Absatzpotential: Maximal mögliche Absatzmenge eines Unternehmens
+- Absatzvolumen: Tatsächlich erzielte Absatzmenge eines Unternehmens
+- Marktanteil: Prozentsatz des Absatzvolumens am Marktvolumen
