@@ -73,8 +73,7 @@
   - Netto: Ohne Umsatzsteuer (Mehrwertsteuer), derzeit 19%
  
 ### Positive Wertschöpfungsfaktoren
-- Steigerung von Outputleistungen
-  - Vergleich Inputleistung
+- Mehr Output- als Inputleistungen
 - Bspw.:
   - Be- und Verarbeitung
   - Wertsteigerung durch Lagerung
@@ -90,4 +89,21 @@
   - Kostengünstigere Inputleistungen
   - Geringe Wertminderung
  
-## 
+### Negative Wertschöpfungsfaktoren
+- Mehr Input- als Outputleistungen
+- Bspw.:
+  - Schlechtes Produkt- und Leistungsangebot
+  - Preisminderungen ohne Ausgleich durch zusätzlichen Absatz
+  - Schlechtes Marketing
+  - Schlechtes Image
+  - Wertminderungen der Produkte von Input zu Output
+  - Geringe beim Kunden berechnete Leistungen der Mitarbeiter wg. Krankheit
+  - Viel Reklamationsbearbeitung
+  - Retouren von Produkten
+  - Leerlauf
+  - Konjunktur-/Saisonschwäche
+  - Schlechte Kundenbindung
+  - Höhere Wertminderungen
+ 
+### Wertschöpfungsnutznießer
+- 
