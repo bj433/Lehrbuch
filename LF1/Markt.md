@@ -42,3 +42,34 @@
 - **A2A**: Administration to Administration
 - **A2B**: Administration to Business
 - **A2C**: Administration to Costumer
+
+## Marktformen
+
+### Monopol
+- Angebotsmonopol:
+  - Ein Anbieter, viele Nachfrager
+- Nachfragemonopol:
+  - Viele Anbieter, ein Nachfrager
+- Zweiseitiges Monopol:
+  - Ein Anbieter, ein Nachfrager
+- Vorteile: Selbständige Preisbestimmung
+- Eigenschaften:
+  - Diversifikation
+  - Exklusivität
+  - Imagebildung
+  - Innovation
+  - Mitbewerberübernahme
+  - Ausnutzung natürlicher Wettbewerbsvorteile
+ 
+### Oligopol
+- Angebotsoligopol:
+  - Wenig Anbieter, viele Nachfrager
+- Nachfrageoligopol:
+  - Viele Anbieter, wenig Nachfrager
+- Zweiseitiges Oligopol:
+  - Wenig Anbieter, wenig Nachfrager
+
+### Polypol
+- Viele Anbieter, viele Nachfrager
+- Marktpreis durch Angebot und Nachfrage
+- Konkurrenzverhalten
