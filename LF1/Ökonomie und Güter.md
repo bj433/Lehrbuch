@@ -50,27 +50,38 @@
   - Bspw.:
     - Lebensmittel zu PC
     - Blumen zu Zigaretten
-- Knappheit
-  - Freie Güter
-    - Bspw.:
-      - Atemluft
-      - Naturerlebnisse
-      - Sonnenschein
-  - Wirtschaftliche Güter
-    - Bspw.:
-      - Sauerstoff
-      - Musik-Dienst
-      - Sonnenbank
-      - Buch
-- Ausschließbarkeit
-  - Private Güter
-    - Bspw.:
-      - Kinovorstellung
-      - Computer
-      - Pauschalreise
-  - Öffentliche Güter
-    - Bspw.:
-      - Stadtfest
-      - Parkanlage
-      - Leuchtturm
-      - Ratssitzung
+
+### Knappheit
+- Freie Güter
+  - Bspw.:
+    - Atemluft
+    - Naturerlebnisse
+    - Sonnenschein
+- Wirtschaftliche Güter
+  - Bspw.:
+    - Sauerstoff
+    - Musik-Dienst
+    - Sonnenbank
+    - Buch
+    
+### Ausschließbarkeit
+- Private Güter
+  - Bspw.:
+    - Kinovorstellung
+    - Computer
+    - Pauschalreise
+- Öffentliche Güter
+  - Bspw.:
+    - Stadtfest
+    - Parkanlage
+    - Leuchtturm
+    - Ratssitzung
+
+## Güter zur Leistungserstellung
+- Rohstoffe: Hauptbestandteile eines Erzeugnisses (bspw.: Eisen für Gebäude)
+- Hilfsstoffe: Nebenbestandteile eines Erzeugnisses (bspw.: Farbe, Klebstoff)
+- Betriebsstoffe: Keine Zurechenbarkeit zu Erzeugnissen (bspw.: Schmieröle, Brennstoffe)
+- Einbaubauteile: Komponenten zur Herstellung von Produkten
+- Handelswaren: Güter für Endverbraucher
+- Dienstleistungen: Fremdleistungen zur Leistungserstellung
+- Lizenzen, Rechte: Markenrechte, Nutzungsrechte, Urheberrechte
