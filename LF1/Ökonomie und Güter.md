@@ -85,3 +85,14 @@
 - Handelswaren: Güter für Endverbraucher
 - Dienstleistungen: Fremdleistungen zur Leistungserstellung
 - Lizenzen, Rechte: Markenrechte, Nutzungsrechte, Urheberrechte
+
+## Organisationsmittel
+
+### Klassisches Büro, klassische Organisationsmittel
+- Arbeitsmittel
+- Gestaltungsmittel
+
+### Papierloses Büro, digitale Organisationsmittel
+- Arbeitsmittel
+- Digitale Gestaltungsmittel
+- Kollaboration
