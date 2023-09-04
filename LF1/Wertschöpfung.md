@@ -2,7 +2,7 @@
 
 ## Wertschöpfungsketten
 
-### Inudstriebetriebe
+### Industriebetriebe
 - Beschaffung
 - Herstellung
 - Marketing
@@ -105,5 +105,6 @@
   - Schlechte Kundenbindung
   - Höhere Wertminderungen
  
-### Wertschöpfungsnutznießer
-- 
+### Kennzahlen
+- Wertschöpfung pro Mitarbeiter (Vgl. Bewertung der Produktivität) = Wertschöpfung : M
+- Wertschöpfungstiefe = Wertschöpfung : Gesamtleistung (Output)
