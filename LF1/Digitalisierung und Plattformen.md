@@ -6,33 +6,21 @@
 - **Digitale Disruption**: Neue Geschäftsmodelle und Problemlösungen
 
 ## Digitale Plattformen
-
-### Informationsplattformen
-- **Erlöse**: Datennutzung, Premiumangebote
-- **Beispiele**:
-  - Infos
-  - Videos
-  - Webinare, E-Learning
-  - E-Konferenzen
- 
-### Kostenlose Digitalprodukte
-- **Erlöse**: Datennutzung, Premiumangebote
-- **Beispiele**:
-  - Bilder, Grafiken
-  - Videos
-  - Software
-  - Zeichnungen
- 
-### Kostenlose Social-Media-Plattformen
-- **Erlöse**: Datennutzung, Zusatzerlöse
-- **Beispiele**:
-  - Teilen von Bildern, Nachrichten, Tipps
-
-### Kooperations- und Projektmanagementportale
-- **Erlöse**: Datennutzung, Premium
-- **Beispiele**:
-  - Kostenlose Kooperationen und Projektmanagement
- 
-### Kostenlose Anwendungen, Tools, Basic
-- **Erlöse**: Datennutzung, Premium
-- **Beispiele**: 
+- Informationsplattformen
+- Kostenlose Digitalprodukte
+- Kostenlose Social-Media-Plattformen
+- Kooperations- und Projektmanagementportale
+- Kostenlose Anwendungen, Tools, Basic
+- Dienstleistungsplattformen
+- Internetshops B2C, B2B
+- Marktplätze, B2C, B2B, B2A
+- Logistik, Service-Providing
+- Lernplattformen
+- Online-Gamingportale
+- Sharing-/Vermietungs-Angebote
+- Cloud-Providing
+  - Hosting
+  - Infrastruktur
+  - Plattform
+  - SaaS
+  - Services
