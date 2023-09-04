@@ -70,4 +70,24 @@
   - Vorleistungen = Einkauf jeglicher Vorprodukte oder Dienstleistungen für den unternehmerischen Zweck
   - Anlagevermögen: Gebäude, Maschinen, Systeme, Fahrzeuge
   - Umlaufvermögen: Stoffe, Teile, Handelsware
-  - 
+  - Netto: Ohne Umsatzsteuer (Mehrwertsteuer), derzeit 19%
+ 
+### Positive Wertschöpfungsfaktoren
+- Steigerung von Outputleistungen
+  - Vergleich Inputleistung
+- Bspw.:
+  - Be- und Verarbeitung
+  - Wertsteigerung durch Lagerung
+  - Installation und Beratung
+  - Besseres Marketing
+  - Qualitätsmarken
+  - Bessere Kundenansprache
+  - Mehr Service
+  - Frische, Qualität der Produkt- und Leistungsübergabe
+  - Bessere After-Sales-Leistungen
+  - Kundenbindung
+  - Image
+  - Kostengünstigere Inputleistungen
+  - Geringe Wertminderung
+ 
+## 
