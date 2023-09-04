@@ -61,3 +61,13 @@
   - Bessere Kundenkommunikation
   - Niedrige Kosten durch schnellere Reaktion auf Kundenwünsche
  
+## Wertschöpfung in Unternehmen
+
+### Begriff (Mehrwertschöpfung)
+- Wertschöpfung = Outputleistungen - Inputleistungen - Wertminderungen
+- Wertschöpfung = Verkaufte Leistungen netto +/- Lagerveränderung abzgl. eingekaufte Vorleistungen - Abschreibungen
+  - Abschreibungen = Wertminderungen auf Anlage- und Umlaufvermögen
+  - Vorleistungen = Einkauf jeglicher Vorprodukte oder Dienstleistungen für den unternehmerischen Zweck
+  - Anlagevermögen: Gebäude, Maschinen, Systeme, Fahrzeuge
+  - Umlaufvermögen: Stoffe, Teile, Handelsware
+  - 
