@@ -39,3 +39,23 @@
       - Angebotsvergleich
       - Bestelldurchführung
       - Warenannahme
+
+### Kernprozesse (Wertschöpfungsprozesse)
+- Kundennahe, wertschöpfungsintensive Geschäftsprozesse
+- Einsatz von Kernkompetenzen:
+  - Aufbau komplexer IT-Systeme
+  - Entwicklung von E-Business-Anwendungen
+  - Serviceleistungen im IT-Bereich
+  - Auftragsabwicklung
+  - Lieferlogistik
+ 
+### Supportprozesse
+- Nicht wertschöpfende, aber unterstützende Geschäftsprozesse
+- Bspw.:
+  - Buchhaltung
+  - Lohn- und Gehaltsabrechnung
+  - Controlling
+ 
+### Workflows
+- Automatisierte Arbeitsabläufe
+- Verwendung eines Workflowmanagementsystems
