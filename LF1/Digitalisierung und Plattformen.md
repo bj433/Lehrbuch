@@ -30,3 +30,12 @@
 ### Geschäftsprozess
 - Abfolge von Unternehmensaktivitäten
   - Zeitlich und sachlogisch
+  - Festgelegte Unternehmensziele
+  - Nutzung von Unternehmensressourcen
+- Gesamte Prozesskette eines Aufgabenbereichs
+  - Sub-/Unterprozesse möglich
+    - Bspw.:
+      - Angebotsanfrage
+      - Angebotsvergleich
+      - Bestelldurchführung
+      - Warenannahme
