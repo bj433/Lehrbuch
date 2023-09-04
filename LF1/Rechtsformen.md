@@ -127,3 +127,12 @@
   - Kapitalbeschaffung
 - **Nachteile**:
   - Aufwendige Rechtsform
+
+## Stille Gesellschaft
+- Personengesellschaft zur Beteiligung an einem Handelsgeschäft
+  - Keine öffentliche Bekanntheit
+- Haftungsbeschränkung
+  - Einlage, keine Geschäftsführung
+- Gewinnverteilung als angemessene Anteile
+
+## 
