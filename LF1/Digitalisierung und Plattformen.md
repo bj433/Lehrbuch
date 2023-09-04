@@ -24,3 +24,9 @@
   - Plattform
   - SaaS
   - Services
+
+## Prozessarten
+
+### Geschäftsprozess
+- Abfolge von Unternehmensaktivitäten
+  - Zeitlich und sachlogisch
