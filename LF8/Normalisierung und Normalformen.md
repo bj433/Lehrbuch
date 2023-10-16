@@ -33,3 +33,15 @@
 - Viele kleine Tabellen -> negativer Einfluss auf Datenbankleistung
 - Hohe Fehleranfälligkeit durch viele künstliche Schlüssel/Verknüpfungen
 - Mehr Schlüssel = Mehr verbrauchter Speicherplatz (Redundanz)
+
+## Anomalien
+
+### Einfüge-Anomalie
+- Neuerstellung von Einträgen
+- Keine Möglichkeit zur Einbindung der Einträge
+
+### Lösch-Anomalie
+- Verlust von Einträgen bei Löschung von anderen Anteilen
+
+### Änderungs-Anomalie
+- Änderung von Einträgen in einer Tabelle, ohne parallele Anpassung in anderen Tabellen (bei Redundanz)
