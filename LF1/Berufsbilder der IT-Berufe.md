@@ -26,7 +26,7 @@ Sie erlangen gemeinsame Kernqualifikationen und spezifische Berufsqualifikatione
     - Planung von innovativen IT-Systemen (in Abstimmung mit Geschäfts- und Leistungsprozessen)
 
 - **Kaufleute für IT-Systemmanagement**
-    - Fachkräfte fpr Vermarktung und Anbieten von IT-Dienstleistungen
+    - Fachkräfte für Vermarktung und Anbieten von IT-Dienstleistungen
     - Management und Administration von IT-Systemen
     - Konzeptentwicklung für IT-Lösungen und Betreuung derer Umsetzung
     - Beteiligung an Maßnahmen von IT-Sicherheit und Datenschutz
