@@ -1,7 +1,7 @@
 # Entgeltformen
 
 ## Zeitentgelt
-- Lohn für Arbeiter abhändig von den geleisteten Stunden
+- Lohn für Arbeiter abhängig von den geleisteten Stunden
 - Gehalt für Angestellte für einen Zeitraum, z.B. Monat
 
 ## Leistungsentgelt
