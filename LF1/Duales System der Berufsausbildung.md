@@ -9,7 +9,7 @@
 
 - **Ausbildungsordnung**: Beschreibung der Berufsausbildung im Bereich der Informations- und Telekommunikationstechnik
 - **Ausbildungsplan**: Sachliche und zeitliche Gliederung des Verlaufs der betrieblichen Ausbildung
-- **Berufsausbildungsvertrag**: Einigung zwischen Azubi und Ausbilder/Betrieb in Form eines privatrechtlichen vertrages 
+- **Berufsausbildungsvertrag**: Einigung zwischen Azubi und Ausbilder/Betrieb in Form eines privatrechtlichen Vertrages 
 - **Ausbildungsnachweis**: Schriftlich zu führender Nachweis, kann während der Abschlussprüfung dem Prüfungsausschuss vorgelegt werden
 - **Aufsicht**: IHK (Industrie- und Handelskammer)
 
