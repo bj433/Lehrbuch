@@ -81,7 +81,7 @@
 - Rechtsmäßigkeit, Verarbeitung nach Treu und Glauben, Transparenz
 - Zweckbindung: Erhebung für festgelegte, eindeutige und rechtmäßige Zwecke
 - Datenminimierung: Beschränkung auf den Zweck der Verarbeitung
-- Rictigkeit: sachlich richtig und auf dem neuesten Stand
+- Richtigkeit: sachlich richtig und auf dem neuesten Stand
 - Speicherbegrenzung: Speicherung nur so lange wie erforderlich
 - Integrität, Vertraulichkeit: geeignete technisch-organisatorische Maßnahmen
 
