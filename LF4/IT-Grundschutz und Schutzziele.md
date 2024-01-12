@@ -74,7 +74,7 @@
   - Eintrittswahrscheinlichkeit
   - Schwere des Risikos für Rechte und Freiheiten natürlicher Personen
 - Gewährleistung eines angemessenen Schutzniveaus
-- Preudonymisierung und Verschlüsselung personenbezogener Daten
+- Pseudonymisierung und Verschlüsselung personenbezogener Daten
 - Sicherstellung von Vertraulichkeit, Integrität, Verfügbarkeit und Belastbarkeit von Systemen und Diensten
 - Wiederherstellung von personenbezogenen Daten im Fall eines physischen oder technischen Zwischenfalls
 - Regelmäßige Überprüfung gegebener Maßnahmen zur Gewährleistung der Sicherheit und Wirksamkeit der Verarbeitung
