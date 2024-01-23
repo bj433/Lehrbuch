@@ -160,9 +160,9 @@
   - Viele Arbeitsplätze
   - Großes Ansehen (Image)
 - **Mitbewerber (Konkurrenz)**:
-- Fairer Wettbewerb
-- Kooperation
-- Innovation
+  - Fairer Wettbewerb
+  - Kooperation
+  - Innovation
 
 ### Zielkonflikte
 - Unterschiedliche/Konkurrierende Zielvorstellungen
