@@ -17,7 +17,7 @@
 - Berechnung der Rendite einer Investition
 - Beurteilung von Einzelinvestitionen
 - Voraussetzung: Ermittelbarkeit von Rückflüssen innerhalb der Nutzungsdauer
-- ROI = Totalerfolg / Investitionskosten
+- TOI = Totalerfolg / Investitionskosten
 - ROI = Rückflüsse / Investitionskosten
 
 ## Leistungsprozess der Anfrage und Auftragsbearbeitung mit Handelswaren
