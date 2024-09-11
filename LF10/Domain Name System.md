@@ -61,4 +61,5 @@
 ### Reverse-Lookup
 - Abfrage des Domänennamen zu gegebener IP-Adresse
 
-## DNS-Sicherheit
+### Forwarder
+- Weiterleitung von Anfragen im Fall das ein anderer Server Anfragen nicht selnbst beantworten kann
